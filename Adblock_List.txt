@@ -1413,6 +1413,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||agefree.web.fc2.com^
 ||momolabo.net^
 ||touchlab.jp^
+||wancolabo.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
