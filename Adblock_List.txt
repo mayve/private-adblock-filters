@@ -1417,6 +1417,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||rohto.co.jp^
 ||meishoku.co.jp^
 ||imaginglabo.web.fc2.com^
+||hime-labo.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
