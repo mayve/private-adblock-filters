@@ -1414,6 +1414,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||momolabo.net^
 ||touchlab.jp^
 ||wancolabo.com^
+||rohto.co.jp^
 ||meishoku.co.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
