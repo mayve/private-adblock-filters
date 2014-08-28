@@ -1629,6 +1629,7 @@ gesoten.com##[href*="profile/detail/94825"]
 ||acs-sv.com^
 ||dmkt-sp.jp^
 ||maisoku.net^
+||bikan-aojiru.jp^
 ||join.biglobe.ne.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
