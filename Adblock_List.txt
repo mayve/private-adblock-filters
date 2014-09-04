@@ -676,6 +676,7 @@ service-navi.jp##.rightResult
 service-navi.jp##.tarot06 > div.leftResult
 service-navi.jp##.tarot06 > div.rightResult
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
+point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
 ! [GMO&PointTown]
 ||img.pointtown.com/js/pc_analytics.js
 ||pointtown.com/js/goods-ranking.js
@@ -1420,6 +1421,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||hime-labo.com^
 ||gc-labo.co.jp^
 ||konami.jp^*curucuru*
+||otatin.com^
+||otat.in^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
