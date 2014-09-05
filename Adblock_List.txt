@@ -1423,6 +1423,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||konami.jp^*curucuru*
 ||otatin.com^
 ||otat.in^
+||lab-aki.blogspot.com^
+||lab-aki.blogspot.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
