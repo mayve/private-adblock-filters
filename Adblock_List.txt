@@ -86,7 +86,6 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
-amazon.co.jp###nav-signin-text
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -100,6 +99,7 @@ youtube.com###watch-channel-brand-div
 ! [Amazon]
 ||images-amazon.com/images/*kindle*
 ||ssl-images-amazon.com/images/*kindle/*
+amazon.co.jp###nav-signin-text
 amazon.co.jp###rightcolbtf2 > [id^="zgChart"]
 amazon.co.jp##.amabot_center
 amazon.co.jp##.s9OtherItems
