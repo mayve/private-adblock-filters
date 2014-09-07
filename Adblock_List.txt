@@ -42,8 +42,6 @@
 ||wordpress.com/*/msdn_orijinal_logo
 ||beauty.hotpepper.jp/CSP/c_common/ALL/IMG/cptop*
 ||dhc.co.jp/category/*/top*
-|http://img.pointi.jp/images_pickup/*
-||ecnavi.gamefactory.jp/assets/contents/*pickup_hover.png
 ! [要素非表示ルール]/elemhide
 ###^adsense
 ###^adv
@@ -140,6 +138,8 @@ amazon.co.jp##IMG[alt="AKB48"]
 ||rakuten-static.com/*/WebImages/enavi/pointclick/*
 ||salon.rakuten.co.jp/cont/common/img/*bnr*
 ||static.affiliate.rakuten.co.jp^
+rakuten.co.jp##.rakutenUserNameBox
+rakuten.co.jp##.userName
 ##[src*="fxleaf"]
 ##A[href*="infoseek.co.jp/*fx*"]
 ##A[href*="fxleaf"]
@@ -461,9 +461,7 @@ gree.jp###game-lineup
 gree.jp###news
 gree.jp##.suggestion.guidance.celeb
 ! [Macromill]
-monitor.macromill.com###feature_list_n
-monitor.macromill.com###nmill_banner
-||monitor.macromill.com/img/top/top_visual*.gif
+monitor.macromill.com##TD[style="white-space:nowrap; font-weight:bold; padding-top:2px;"]
 ! [FastAsk]
 monitor.fast-ask.com##.fa-home-video
 |http://monitor.fast-ask.com/guest/home/css/images/fa-monitor-guest-home-image
@@ -480,6 +478,16 @@ monitor.fast-ask.com##.fa-home-video
 ||itgimg.netr.jp/sv/*/images/game__answer*.jpg
 cue-monitor.jp###localNav
 ##A[href*="cue-monitor.jp/recruit"]
+! [Enq etc]
+research-panel.jp##.name
+monitor.i-research.jp##.name > SPAN
+cpp.ne.jp###mo_name + * TD[style="font-size: 14px;"]
+monitor.fast-ask.com###monitor-name
+smis.jp##frame[name="sideFrame"] div.a
+infoq.jp##.name
+myvoice.co.jp##DIV[style="font-weight:bold;text-align:left;color:#660000;font-size:15px;line-height:1.5em;background-color:#FFD5D5;padding:7px 10px;border-radius:10px;"]
+myvoice.co.jp##P[align="center"]
+mypage.cue-monitor.jp###pointBox > .hello
 ! [PointGame]
 ||ad-link.jp/*/advertise_*
 ||ad-link.jp/*/linkshare_*
@@ -494,6 +502,9 @@ cue-monitor.jp###localNav
 ||img01.ad-link.jp/bingo07/img/bg.jpg?*
 ad-link.jp##.pxm-promotion_img-src
 up-current.co.jp##.ranking LI
+||ecnavi.gamefactory.jp/assets/contents/*pickup_hover.png
+gamefactory.jp###footer-ad-container
+pointgame.infoq.jp###main_head_ssp
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -514,6 +525,7 @@ up-current.co.jp##.ranking LI
 linkshare.ne.jp##IMG[alt*="HMV"]
 ||ad.linksynergy.com/fs-bin/show?id=YVA2IC*
 ||video.poncan.jp/images/*-thankyou-display-pt.*
+||impact-ad.jp^
 ! [Gpoint]
 |http://www.gpoint.co.jp/common/images/flash/flash
 |http://pmall.gpoint.co.jp/biglobe/shopping/images/258x145
@@ -603,7 +615,6 @@ tremii.excite.co.jp##DIV[style="float:right;margin:1em 0 1em 0;width:180px;"]
 ||netmile.co.jp/sp/images/detail/game_banner*
 md.netmile.co.jp##A[href^="/sp/ac"]
 netmile.co.jp###get IMG[width="300"][height="200"][src^="/sp/game/common/images/"]
-gamefactory.jp###footer-ad-container
 ! [Hapitas]
 ||img.dorubako.jp/img/camp_banner/img*
 hapitas.jp##.four_slide_content_image
@@ -630,6 +641,7 @@ pointi.jp###cnt_timesale
 pointi.jp###topic
 pointi.jp##.star
 pointi.jp##a[href*="sn=36425"]
+|http://img.pointi.jp/images_pickup/*
 ! [Gendama]
 ||img.gendama.jp/banner/*
 ||img.gendama.jp/facebookrc/*
@@ -771,21 +783,6 @@ search.ecnavi.jp###shop
 search.ecnavi.jp###yahoo_auction
 search.ecnavi.jp##.Attribute_keyword
 research-panel.jp##.author
-! [Yosoo.net]
-|http://www.yosoo.net/*TGbanner/tg*_img
-|http://www.yosoo.net/images2/bn*
-|http://www.yosoo.net/images2/tg*
-|http://www.yosoo.net/*/banner/*top*
-|http://www.yosoo.net/campaign/*/images/pctop/*
-||www.yosoo.net/datafiles/af/*
-||www.yosoo.net/*otoko*
-yosoo.net##.mpHoroscope
-yosoo.net##IMG[src^="http://ad3.cross-a.net/"]
-yosoo.net##IMG[src^="http://image.j-a-net.jp/"]
-yosoo.net##IMG[src^="http://srv2.trafficgate.net/"]
-yosoo.net##IMG[src^="http://h.accesstrade.net/"]
-yosoo.net##IMG[src^="/images/banner/luckyclick/"]
-yosoo.net##IMG[src^="/images/banner/tokusen/"]
 ! [Potora]
 ||potora.jp/js/noticegoods.js
 ||potora.jp/common/js/jquery/loopedslider.js
@@ -828,8 +825,6 @@ potora.jp###shop-goods
 ||chance.com/image/clients/160*600*
 ||chance.com/image/clients/*200*200*
 |http://www.chance.com/*zoff*
-! [Lifemedia]
-||lifemedia.jp/aboutlifemedia.htm
 ! [Pokema.net]
 pokema.net##.bnmain1
 ! [News]
@@ -1426,6 +1421,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||lab-aki.blogspot.com^
 ||lab-aki.blogspot.jp^
 ||hama73.com^
+||jeans-lab.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1598,6 +1594,7 @@ gesoten.com##[href*="profile/detail/361604"]
 gesoten.com##[href*="profile/detail/71933"]
 gesoten.com##[href*="profile/detail/429801"]
 gesoten.com##[href*="profile/detail/94825"]
+pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||kababooks.com^
 ##[href*="kababooks"]
 ##[src*="kababooks"]
