@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! [例外ルール]/whitelist
 @@||www.google.co.jp/search?$document
-@@||aguse.jp^$document
+@@||aguse.jp
 @@||amazon.co.jp/gp/$document
 @@|http://www.sourcenext.com/eshop/|$document
 @@||linksynergy.com^$document
@@ -86,6 +86,7 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
+amazon.co.jp###nav-signin-text
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -1337,6 +1338,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||hatelabo.jp^
 ||team-lab.com^
 ||hyaku-lab.net^
+||hazardlab.jp^
 ||office-p-labo.com^
 ||partslabo.com^
 ||jp-labo.co.jp^
