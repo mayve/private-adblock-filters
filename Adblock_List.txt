@@ -1424,6 +1424,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||lab-aki.blogspot.jp^
 ||hama73.com^
 ||jeans-lab.com^
+||rams-marks.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
