@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! [例外ルール]/whitelist
 @@||www.google.co.jp/search?$document
-@@||aguse.jp
+@@||aguse.jp^$document
 @@||amazon.co.jp/gp/$document
 @@|http://www.sourcenext.com/eshop/|$document
 @@||linksynergy.com^$document
@@ -16,6 +16,10 @@
 @@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
 @@||ad.poncan.jp^$document
+@@||service-navi.jp^$document
+@@||realworld.jp^$~third-party
+@@||tvnv.jp^$document
+@@||cartunes.jp^$document
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
@@ -86,6 +90,7 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
+fruitmail.excite.co.jp##DIV[style="float:right;margin:0 0 1em 0;width:300px;"]
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -479,7 +484,8 @@ monitor.fast-ask.com##.fa-home-video
 ||itgimg.netr.jp/sv/*/images/game__answer*.jpg
 cue-monitor.jp###localNav
 ##A[href*="cue-monitor.jp/recruit"]
-! [Enq etc]
+! [id]
+research.rakuten.co.jp##.monitorNav > P > STRONG
 research-panel.jp##.name
 monitor.i-research.jp##.name > SPAN
 cpp.ne.jp###mo_name + * TD[style="font-size: 14px;"]
@@ -489,6 +495,9 @@ infoq.jp##.name
 myvoice.co.jp##DIV[style="font-weight:bold;text-align:left;color:#660000;font-size:15px;line-height:1.5em;background-color:#FFD5D5;padding:7px 10px;border-radius:10px;"]
 myvoice.co.jp##P[align="center"]
 mypage.cue-monitor.jp###pointBox > .hello
+websearch.rakuten.co.jp###pnvUserName
+netmile.co.jp##.name
+point-ex.jp##.header_account > A[href="/account.php"]
 ! [PointGame]
 ||ad-link.jp/*/advertise_*
 ||ad-link.jp/*/linkshare_*
@@ -505,7 +514,11 @@ ad-link.jp##.pxm-promotion_img-src
 up-current.co.jp##.ranking LI
 ||ecnavi.gamefactory.jp/assets/contents/*pickup_hover.png
 gamefactory.jp###footer-ad-container
+netmile.gamefactory.jp##.box-300 > .box-h250 > UL > LI > A
 pointgame.infoq.jp###main_head_ssp
+||gsspcln.jp^$~third-party
+||impact-ad.jp^$~third-party
+||media-ad.jp^$~third-party
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -526,7 +539,6 @@ pointgame.infoq.jp###main_head_ssp
 linkshare.ne.jp##IMG[alt*="HMV"]
 ||ad.linksynergy.com/fs-bin/show?id=YVA2IC*
 ||video.poncan.jp/images/*-thankyou-display-pt.*
-||impact-ad.jp^
 ! [Gpoint]
 |http://www.gpoint.co.jp/common/images/flash/flash
 |http://pmall.gpoint.co.jp/biglobe/shopping/images/258x145
@@ -718,29 +730,11 @@ point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
 ||infoq.jp/*shindan*
 ##A[href^="https://apps.facebook.com/jibunshindan/"]
 pointtown.com###shopping-kuchikomi
+pointtown.com##.service_frame.main_review.top10m
 pointtown.com##.test_head.fixed
 pointtown.com###monitor .itemlist_frame
 gesoten.com###game_side_col
 gesoten.com###game_left_ranking
-blog.ap.teacup.com###left_amazon
-yaplog.jp###^widget
-yaplog.jp###allInfo .section > :first-child > LI
-yaplog.jp###aside
-yaplog.jp###beautybloger
-yaplog.jp###cinema
-yaplog.jp###coupon
-yaplog.jp###header_ads
-yaplog.jp###headerAd
-yaplog.jp###kitchen
-yaplog.jp###officialList
-yaplog.jp###side_lovelog
-yaplog.jp###staffInfo
-yaplog.jp##.^widget
-yaplog.jp##.aside_box
-yaplog.jp##.main_tb_baton
-yaplog.jp##.twtr-doc
-yaplog.jp##DIV[style="color: rgb(213, 171, 175); background: none repeat scroll 0% 0% rgb(255, 237, 246); padding: 3px 6px; margin: 8px 0pt 1px;"]
-yaplog.jp##DIV[style="color: rgb(213, 171, 175); background: none repeat scroll 0% 0% rgb(255, 237, 246); padding: 3px 6px;"]
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
 ||shop.ecnavi.jp.eimg.jp/shop_bc/img/logo_120x60/*
@@ -1178,8 +1172,6 @@ img.accesstrade.net##A[href^="http://www.accesstrade.net/"]
 ||dic.nicovideo.jp^
 |http://*.e.akamai.net/*.swf
 |http://aimds.er.cyberwing.co.jp/cyfes_trans/restype=abdl/AD=A_BIGLOBE
-||href.asia^
-||microad.jp^
 ||advertising.com^
 |http://content.yieldmanager.edgesuite.net/*
 ||static.adlantis.jp/javascripts/*
@@ -1188,7 +1180,6 @@ img.accesstrade.net##A[href^="http://www.accesstrade.net/"]
 |http://img.adplan-ds.com/*microsoft*
 |http://media-b.jp/
 ||ads.adjust-net.jp/adserver/ad/ads.js
-||img.ak.impact-ad.jp/imd/bta_dist.js
 |http://appdriver.jp/static/images/*
 |http://ak1.dr.cyberwing.co.jp/images/iba/biglobe
 ||top.bcdn.jp/up_image/sp_banner/*
@@ -1425,6 +1416,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||hama73.com^
 ||jeans-lab.com^
 ||rams-marks.jp^
+||takami-labo.com^
+||qhm-lab.info^
+||freesoftlab.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1551,6 +1545,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||netoff.co.jp^
 ||bookoff.co.jp^
 ||bookoffonline.co.jp^
+||zara.com^
 ||attrip.jp^
 ||webtest.jp^
 ||paka3.net^
