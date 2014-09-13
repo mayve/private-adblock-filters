@@ -1632,6 +1632,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||dmkt-sp.jp^
 ||maisoku.net^
 ||bikan-aojiru.jp^
+||karadano-recipe.com^
 ||join.biglobe.ne.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
