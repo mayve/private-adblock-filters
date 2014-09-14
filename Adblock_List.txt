@@ -9,13 +9,14 @@
 @@||member.accesstrade.net^$document
 @@||valuecommerce.ne.jp/portal/$third-party
 @@||sourcenext.com^$document
-@@||crowd-app.realworld.jp^$document
-@@|http://img.gendama.jp/banner/bt_day.gif
+@@||admin.blog.fc2.com^$document
 @@||losslab.blogspot.jp^$document
 @@||losslab.blogspot.com^$document
 @@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
 @@||ad.poncan.jp^$document
+@@|http://img.gendama.jp/banner/bt_day.gif
+@@||crowd-app.realworld.jp^$document
 @@||service-navi.jp^$document
 @@||realworld.jp^$~third-party
 @@||tvnv.jp^$document
@@ -1419,6 +1420,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||takami-labo.com^
 ||qhm-lab.info^
 ||freesoftlab.com^
+||rim.or.jp^*lisalabo*
+||ringer.cocolog-nifty.com^*kunst_und_medizin*
+||ringer.cocolog-nifty.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1554,6 +1558,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||colors-beautysalon.com^
 ||little-portal.com^
 ||majiare.tumblr.com^
+||kokoro-switch.com^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ! [ClutSoukagakkai-Korean_Pakuri]
 ##[title*="ダンボー"]
@@ -1633,6 +1638,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||maisoku.net^
 ||bikan-aojiru.jp^
 ||karadano-recipe.com^
+||girls-award.com^
+||rakuten.co.jp^*girlsaward*
 ||join.biglobe.ne.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
