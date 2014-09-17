@@ -14,7 +14,7 @@
 @@||losslab.blogspot.com^$document
 @@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
-@@||ad.poncan.jp^$document
+@@||poncan.jp^$document
 @@|http://img.gendama.jp/banner/bt_day.gif
 @@||crowd-app.realworld.jp^$document
 @@||service-navi.jp^$document
@@ -703,39 +703,6 @@ service-navi.jp##.tarot06 > div.leftResult
 service-navi.jp##.tarot06 > div.rightResult
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
 point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
-! [GMO&PointTown]
-||img.pointtown.com/js/pc_analytics.js
-||pointtown.com/js/goods-ranking.js
-||pointtown.com/js/cnt/topNew.js
-||pointtown.com/image/top/*
-||pointtown.com/image/*/bn/*
-||general.gmo-media.jp/af/*
-||pointtown.com/*monitor/*monitor*
-||pointtown.com/image/monitor/*guide*
-||pointtown.com/image/monitor/*title*
-||img.pointtown.com/js/fancrew/fancrew_pc.js?*
-||img.pointtown.com/img/collection/item/*
-||pointtown.com/img/ads_mypage/*
-||pointtown.com^*/mypage/friendship*
-||pointtown.com/pointpark/game/gesoten/link*
-|http://img.pointtown.com/image/mail/*
-||pointtown.com/image/vegemon/html_mail/*
-||img.gesoten.com/img/html_mail/*
-||img.gesoten.com/00/gadget/25*
-||img.gesoten.com/00/gadget/*25*
-||file001.shop-pro.jp/*/img/mail/*
-||ad3.gmo-media.jp/www/delivery/*
-||kumapon.jp/uploads/*
-||jword.jp^
-##[href*="jword.jp"]
-||infoq.jp/*shindan*
-##A[href^="https://apps.facebook.com/jibunshindan/"]
-pointtown.com###shopping-kuchikomi
-pointtown.com##.service_frame.main_review.top10m
-pointtown.com##.test_head.fixed
-pointtown.com###monitor .itemlist_frame
-gesoten.com###game_side_col
-gesoten.com###game_left_ranking
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
 ||shop.ecnavi.jp.eimg.jp/shop_bc/img/logo_120x60/*
@@ -821,8 +788,40 @@ potora.jp###shop-goods
 ||chance.com/image/clients/160*600*
 ||chance.com/image/clients/*200*200*
 |http://www.chance.com/*zoff*
-! [Pokema.net]
-pokema.net##.bnmain1
+! [GMO&PointTown]
+||img.pointtown.com/js/pc_analytics.js
+||pointtown.com/js/goods-ranking.js
+||pointtown.com/js/cnt/topNew.js
+||pointtown.com/image/top/*
+||pointtown.com/image/*/bn/*
+||general.gmo-media.jp/af/*
+||pointtown.com/*monitor/*monitor*
+||pointtown.com/image/monitor/*guide*
+||pointtown.com/image/monitor/*title*
+||img.pointtown.com/js/fancrew/fancrew_pc.js?*
+||img.pointtown.com/img/collection/item/*
+||img.pointtown.com/image/page/shopping/*468x200*
+||pointtown.com/img/ads_mypage/*
+||pointtown.com^*/mypage/friendship*
+||pointtown.com/pointpark/game/gesoten/link*
+|http://img.pointtown.com/image/mail/*
+||pointtown.com/image/vegemon/html_mail/*
+||img.gesoten.com/img/html_mail/*
+||img.gesoten.com/00/gadget/25*
+||img.gesoten.com/00/gadget/*25*
+||file001.shop-pro.jp/*/img/mail/*
+||ad3.gmo-media.jp/www/delivery/*
+||kumapon.jp/uploads/*
+||jword.jp^
+##[href*="jword.jp"]
+||infoq.jp/*shindan*
+##A[href^="https://apps.facebook.com/jibunshindan/"]
+pointtown.com###shopping-kuchikomi
+pointtown.com##.service_frame.main_review.top10m
+pointtown.com##.test_head.fixed
+pointtown.com###monitor .itemlist_frame
+gesoten.com###game_side_col
+gesoten.com###game_left_ranking
 ! [News]
 jp.reuters.com##NOSCRIPT
 mainichi.jp##DIV[style="float:left; margin:0px 10px 10px 0px;"]
@@ -1423,6 +1422,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||rim.or.jp^*lisalabo*
 ||ringer.cocolog-nifty.com^*kunst_und_medizin*
 ||ringer.cocolog-nifty.com^
+||kis-lab.com^
+||sugio-garden.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1560,6 +1561,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||majiare.tumblr.com^
 ||kokoro-switch.com^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
+||user.gesoten.com/img/vg/vl_item03*
 ! [ClutSoukagakkai-Korean_Pakuri]
 ##[title*="ダンボー"]
 ##a[href*="%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC"]
