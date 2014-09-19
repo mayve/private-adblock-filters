@@ -519,7 +519,7 @@ netmile.gamefactory.jp##.box-300 > .box-h250 > UL > LI > A
 pointgame.infoq.jp###main_head_ssp
 ||gsspcln.jp^$~third-party
 ||impact-ad.jp^$~third-party
-||media-ad.jp^$~third-party
+||media-ad.jp^$third-party
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -1424,6 +1424,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||ringer.cocolog-nifty.com^
 ||kis-lab.com^
 ||sugio-garden.com^
+||rakuten.ne.jp^*e-homedirect*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
