@@ -1567,6 +1567,8 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||little-portal.com^
 ||majiare.tumblr.com^
 ||kokoro-switch.com^
+||apple.com^*gao-hai-yuande-ji-jiao-huan*
+||jig.jp^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
 ! [ClutSoukagakkai-Korean_Pakuri]
