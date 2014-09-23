@@ -17,10 +17,6 @@
 @@||poncan.jp^$document
 @@|http://img.gendama.jp/banner/bt_day.gif
 @@||crowd-app.realworld.jp^$document
-@@||service-navi.jp^$document
-@@||realworld.jp^$~third-party
-@@||tvnv.jp^$document
-@@||cartunes.jp^$document
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
@@ -517,14 +513,11 @@ up-current.co.jp##.ranking LI
 gamefactory.jp###footer-ad-container
 netmile.gamefactory.jp##.box-300 > .box-h250 > UL > LI > A
 pointgame.infoq.jp###main_head_ssp
-||gsspcln.jp^$~third-party
-||impact-ad.jp^$~third-party
-||media-ad.jp^$third-party
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
 ~ameblo.jp##120x60.jpg|
-120x60.gif|
+~ameblo.jp##120x60.gif|
 ~ameblo.jp##300*250.jpg|
 ~ameblo.jp##300*250.gif|
 ~ameblo.jp##300*250.swf|
@@ -537,9 +530,10 @@ pointgame.infoq.jp###main_head_ssp
 ||a8.net/svt/bgt*
 ||af-110.com/banner/*
 ||socdm.com^
-linkshare.ne.jp##IMG[alt*="HMV"]
 ||ad.linksynergy.com/fs-bin/show?id=YVA2IC*
 ||video.poncan.jp/images/*-thankyou-display-pt.*
+||impact-ad.jp^
+linkshare.ne.jp##IMG[alt*="HMV"]
 ! [Gpoint]
 |http://www.gpoint.co.jp/common/images/flash/flash
 |http://pmall.gpoint.co.jp/biglobe/shopping/images/258x145
@@ -800,7 +794,7 @@ potora.jp###shop-goods
 ||pointtown.com/image/monitor/*title*
 ||img.pointtown.com/js/fancrew/fancrew_pc.js?*
 ||img.pointtown.com/img/collection/item/*
-||img.pointtown.com/image/page/shopping/*468x200*
+|http://img.pointtown.com/image/*468x200*
 ||pointtown.com/img/ads_mypage/*
 ||pointtown.com^*/mypage/friendship*
 ||pointtown.com/pointpark/game/gesoten/link*
@@ -1431,6 +1425,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||natural-me.jugem.jp^
 ||nl-shop.com^
 ||naturelab.co.jp^
+||publabo.co.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
