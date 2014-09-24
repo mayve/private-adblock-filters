@@ -790,6 +790,7 @@ potora.jp###shop-goods
 ||img.pointtown.com/js/fancrew/fancrew_pc.js?*
 ||img.pointtown.com/img/collection/item/*
 |http://img.pointtown.com/image/*468x200*
+|http://img.pointtown.com/image/*468*
 ||pointtown.com/img/ads_mypage/*
 ||pointtown.com^*/mypage/friendship*
 ||pointtown.com/pointpark/game/gesoten/link*
@@ -1424,6 +1425,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||rakuten.ne.jp^*aimere*
 ||shopping.yahoo.co.jp^*santelabo*
 ||b-cruise.jp^
+||vege-labo.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
