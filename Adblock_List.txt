@@ -2,16 +2,14 @@
 ! [例外ルール]/whitelist
 @@||www.google.co.jp/search?$document
 @@||aguse.jp^$document
+@@||topsy.com^
 @@||amazon.co.jp/gp/$document
-@@|http://www.sourcenext.com/eshop/|$document
-@@||linksynergy.com^$document
-@@||linkshare.ne.jp^$document
+@@||linksynergy.com,linkshare.ne.jp^$document
 @@||member.accesstrade.net^$document
 @@||valuecommerce.ne.jp/portal/$third-party
 @@||sourcenext.com^$document
 @@||admin.blog.fc2.com^$document
-@@||losslab.blogspot.jp^$document
-@@||losslab.blogspot.com^$document
+@@||losslab.blogspot.com,losslab.blogspot.jp^$document
 @@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
 @@||poncan.jp^$document
@@ -20,9 +18,6 @@
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
-@@|https://reg.yosoo.net/monitor_like/list.php?$document
-@@|http://passion-tenshoku.com/ceo/2012/11/12314/|$document
-@@|http://www.mymodernmet.com/profiles/blogs/reylia-slaby-tales-from-japan|$document
 ! [広告ブロックルール]/blocking
 ||belluna.jp^
 ||benesse.ne.jp^
@@ -1426,6 +1421,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||nl-shop.com^
 ||naturelab.co.jp^
 ||publabo.co.jp^
+||rakuten.ne.jp^*aimere*
+||shopping.yahoo.co.jp^*santelabo*
+||b-cruise.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
