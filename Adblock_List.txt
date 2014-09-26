@@ -1426,6 +1426,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||shopping.yahoo.co.jp^*santelabo*
 ||b-cruise.jp^
 ||vege-labo.com^
+||kaden.watch.impress.co.jp^*/fujilabo/*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1647,6 +1648,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||girls-award.com^
 ||rakuten.co.jp^*girlsaward*
 ||join.biglobe.ne.jp^
+||rabitsokuhou.2chblog.jp^
+||241241.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
