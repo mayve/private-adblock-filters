@@ -489,6 +489,7 @@ myvoice.co.jp##P[align="center"]
 mypage.cue-monitor.jp###pointBox > .hello
 websearch.rakuten.co.jp###pnvUserName
 netmile.co.jp##.name
+netmile.co.jp##.user-status > LI
 point-ex.jp##.header_account > A[href="/account.php"]
 ! [PointGame]
 ||ad-link.jp/*/advertise_*
@@ -1312,6 +1313,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ! [ClutSouka-Korean_Pakuri_laboratory_since2009]
 ##[alt*="ラボ"]
 ##[title*="ラボ"]
+||tabi-labo.com^
 ||gunze-store.jp^
 ||3838.com^
 ||nlab.itmedia.co.jp^
@@ -1426,7 +1428,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||b-cruise.jp^
 ||vege-labo.com^
 ||kaden.watch.impress.co.jp^*/fujilabo/*
-||food-sommelier.jp/*trendlabs*
+||food-sommelier.jp^*trendlabs*
 ||food-sommelier.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
