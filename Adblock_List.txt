@@ -506,7 +506,6 @@ ad-link.jp##.pxm-promotion_img-src
 up-current.co.jp##.ranking LI
 ||ecnavi.gamefactory.jp/assets/contents/*pickup_hover.png
 gamefactory.jp###footer-ad-container
-netmile.gamefactory.jp##.box-300 > .box-h250 > UL > LI > A
 pointgame.infoq.jp###main_head_ssp
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
@@ -1427,6 +1426,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||b-cruise.jp^
 ||vege-labo.com^
 ||kaden.watch.impress.co.jp^*/fujilabo/*
+||food-sommelier.jp/*trendlabs*
+||food-sommelier.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
