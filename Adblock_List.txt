@@ -82,7 +82,6 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
-fruitmail.excite.co.jp##DIV[style="float:right;margin:0 0 1em 0;width:300px;"]
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -599,6 +598,7 @@ fruitmail.net###mypage_ck
 fruitmail.net###search_every .bg02
 fruitmail.net##.ranking_box
 fruitmail.excite.co.jp##DIV[style="float:right;margin:1em 0 1em 0;width:180px;"]
+fruitmail.excite.co.jp##DIV[style="float:right;margin:0 0 1em 0;width:300px;"]
 apricot.fruitmail.net###voiceBox
 fruitmail.net###pickup_point
 ! [Tremii]
@@ -726,6 +726,7 @@ ecnavi.jp##IMG[src^="http://image.smart-c.jp/"]
 ecnavi.jp###apos_point_history_banner IMG
 ecnavi.jp###result .shop_info
 ecnavi.jp###\31 -10067683
+ecnavi.jp##.user_name > SPAN
 kensho.ecnavi.jp###ekiden IFRAME
 kensho.ecnavi.jp##.rectangle
 search.ecnavi.jp###amazon_items
@@ -1430,6 +1431,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||kaden.watch.impress.co.jp^*/fujilabo/*
 ||food-sommelier.jp^*trendlabs*
 ||food-sommelier.jp^
+||ameblo.jp^*sbooklab*
+||ameba.jp^*sbooklab*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
