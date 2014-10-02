@@ -294,6 +294,8 @@ auth.kabegami.biglobe.ne.jp##DIV[style="margin: 20px 0pt; width: 710px;"]
 ||fc2.com/ana/analyzer
 |http://fc2.com/ad/
 |http://media.fc2.com/counter
+||media.fc2.com^
+||aimg.fc2.com^
 ###fc2analyzerold
 ##[href*=".fc2.com/"]$third-party
 fc2.com###^ad
@@ -639,12 +641,12 @@ hapitas.jp##IMG[src^="http://ad.jp.ap.valuecommerce.com/"]
 |http://img.pointi.jp/images_banners/car
 |http://img.pointi.jp/images_banners/at
 |http://img.pointi.jp/images_banners/ak
+|http://img.pointi.jp/images_pickup/*
 pointi.jp###premium
 pointi.jp###cnt_timesale
 pointi.jp###topic
 pointi.jp##.star
 pointi.jp##a[href*="sn=36425"]
-|http://img.pointi.jp/images_pickup/*
 ! [Gendama]
 ||img.gendama.jp/banner/*
 ||img.gendama.jp/facebookrc/*
@@ -1762,3 +1764,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||johoguard.com^
 ||wiki.livedoor.jp^*watch_the_st*
 ||richardkoshimizu.at.webry.info^
+! [ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ 武闘派指定暴力団工藤会系要注意]
+||twitter.com^*ClawLabo*
+||facebook.com^*clawhair*
+||clawhair.com^
