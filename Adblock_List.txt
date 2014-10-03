@@ -9,6 +9,7 @@
 @@||valuecommerce.ne.jp/portal/$third-party
 @@||sourcenext.com^$document
 @@||admin.blog.fc2.com^$document
+@@||blog.shinobi.jp^$document
 @@||losslab.blogspot.com,losslab.blogspot.jp^$document
 @@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
