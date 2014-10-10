@@ -646,6 +646,7 @@ hapitas.jp##IMG[src^="http://ad.jp.ap.valuecommerce.com/"]
 pointi.jp###premium
 pointi.jp###cnt_timesale
 pointi.jp###topic
+pointi.jp###textad_wrap
 pointi.jp##.star
 pointi.jp##a[href*="sn=36425"]
 ! [Gendama]
@@ -1441,6 +1442,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||nishimotz.com^
 ||washulabo.gekkeikan.co.jp^
 ||gekkeikan.co.jp^
+||candy-labo.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
