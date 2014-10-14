@@ -1665,6 +1665,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||rakuten.co.jp^*girlsaward*
 ||join.biglobe.ne.jp^
 ||rabitsokuhou.2chblog.jp^
+||youtube.com^*FairiesCH*
 ||241241.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
