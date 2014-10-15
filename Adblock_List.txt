@@ -386,6 +386,7 @@ wiki.livedoor.jp###adsense-location-top2
 wiki.livedoor.jp##.ad
 ##[href^="http://blog-news.doorblog.jp/"]
 reader.livedoor.com##A[href^="http://www.amazon.co.jp/"]
+blog.jp##A[href^="http://www.amazon.co.jp/"]
 ! [RSS]
 inoreader.com##IMG[src^="http://ecx.images-amazon.com/"]
 inoreader.com##A[href^="http://www.amazon.co.jp/"]
@@ -1322,10 +1323,16 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||gunze-store.jp^
 ||3838.com^
 ||nlab.itmedia.co.jp^
+##[href*="nlab"]
+##[src*="nlab"]
+##[alt*="nlab"]
+##[title*="nlab"]
 ||hatelabo.jp^
 ||team-lab.com^
 ||hyaku-lab.net^
 ||hazardlab.jp^
+||ci-labo.com^
+||labo2.jp^
 ||office-p-labo.com^
 ||partslabo.com^
 ||jp-labo.co.jp^
@@ -1387,7 +1394,6 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||makulab.jp^
 ||yamatoya-futon.jp^
 ||stickerlabo.com^
-||ci-labo.com^
 ||rakuten.co.jp^*zakkalab*
 ||purplelab.web.fc2.com^
 ||wonderlaboratory.com^
@@ -1667,6 +1673,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||rabitsokuhou.2chblog.jp^
 ||youtube.com^*FairiesCH*
 ||241241.jp^
+||youtube.com^*-Mo3OB0RGmo*
+||youtu.be^*-Mo3OB0RGmo*
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
