@@ -161,6 +161,7 @@ infoseek.co.jp###flashad
 infoseek.co.jp###pickup_contents
 infoseek.co.jp##A[href*="fx"]
 www.infoseek.co.jp###main
+www.infoseek.co.jp###mainContents
 infoseek.co.jp###mangaBlock
 infoseek.co.jp###topArticle
 infoseek.co.jp###photoNews
@@ -169,8 +170,8 @@ infoseek.co.jp###voteBlock
 infoseek.co.jp###celebrityNews
 infoseek.co.jp##.setList
 isbingo.www.infoseek.co.jp##.winnerBoard
-www.infoseek.co.jp###mainContents
 woman.infoseek.co.jp###Container
+websearch.rakuten.co.jp###ad-ichiba
 ! [Yahoo!]
 ||im.gmo.ov.yahoo.co.jp^
 ||yimg.jp^*hmv*
@@ -1449,6 +1450,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||washulabo.gekkeikan.co.jp^
 ||gekkeikan.co.jp^
 ||candy-labo.com^
+||top-athlete.jp^
+||rakuten.co.jp^*alpron*
+||shopping.yahoo.co.jp^*alpron*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1673,6 +1677,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||rabitsokuhou.2chblog.jp^
 ||youtube.com^*FairiesCH*
 ||241241.jp^
+||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
 ||youtu.be^*-Mo3OB0RGmo*
 ! [Malware&Phishing(China)]
