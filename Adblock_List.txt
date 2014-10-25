@@ -1455,6 +1455,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||top-athlete.jp^
 ||rakuten.co.jp^*alpron*
 ||shopping.yahoo.co.jp^*alpron*
+||vc-lab.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
