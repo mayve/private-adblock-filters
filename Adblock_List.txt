@@ -493,6 +493,7 @@ infoq.jp##.name
 myvoice.co.jp##DIV[style="font-weight:bold;text-align:left;color:#660000;font-size:15px;line-height:1.5em;background-color:#FFD5D5;padding:7px 10px;border-radius:10px;"]
 myvoice.co.jp##P[align="center"]
 mypage.cue-monitor.jp###pointBox > .hello
+mypage.cue-monitor.jp###login-info > .login-name.mr20 > STRONG
 websearch.rakuten.co.jp###pnvUserName
 netmile.co.jp##.name
 netmile.co.jp##.user-status > LI
@@ -699,6 +700,7 @@ service-navi.jp##.rightResult
 service-navi.jp##.tarot06 > div.leftResult
 service-navi.jp##.tarot06 > div.rightResult
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
+##a[href*="id=146143"]
 point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
@@ -786,41 +788,6 @@ potora.jp###shop-goods
 ||chance.com/image/clients/160*600*
 ||chance.com/image/clients/*200*200*
 |http://www.chance.com/*zoff*
-! [GMO&PointTown]
-||img.pointtown.com/js/pc_analytics.js
-||pointtown.com/js/goods-ranking.js
-||pointtown.com/js/cnt/topNew.js
-||pointtown.com/image/top/*
-||pointtown.com/image/*/bn/*
-||general.gmo-media.jp/af/*
-||pointtown.com/*monitor/*monitor*
-||pointtown.com/image/monitor/*guide*
-||pointtown.com/image/monitor/*title*
-||img.pointtown.com/js/fancrew/fancrew_pc.js?*
-||img.pointtown.com/img/collection/item/*
-|http://img.pointtown.com/image/*468x200*
-|http://img.pointtown.com/image/*468*
-||pointtown.com/img/ads_mypage/*
-||pointtown.com^*/mypage/friendship*
-||pointtown.com/pointpark/game/gesoten/link*
-|http://img.pointtown.com/image/mail/*
-||pointtown.com/image/vegemon/html_mail/*
-||img.gesoten.com/img/html_mail/*
-||img.gesoten.com/00/gadget/25*
-||img.gesoten.com/00/gadget/*25*
-||file001.shop-pro.jp/*/img/mail/*
-||ad3.gmo-media.jp/www/delivery/*
-||kumapon.jp/uploads/*
-||jword.jp^
-##[href*="jword.jp"]
-||infoq.jp/*shindan*
-##A[href^="https://apps.facebook.com/jibunshindan/"]
-pointtown.com###shopping-kuchikomi
-pointtown.com##.service_frame.main_review.top10m
-pointtown.com##.test_head.fixed
-pointtown.com###monitor .itemlist_frame
-gesoten.com###game_side_col
-gesoten.com###game_left_ranking
 ! [News]
 jp.reuters.com##NOSCRIPT
 mainichi.jp##DIV[style="float:left; margin:0px 10px 10px 0px;"]
