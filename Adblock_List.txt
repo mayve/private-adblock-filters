@@ -498,6 +498,7 @@ websearch.rakuten.co.jp###pnvUserName
 netmile.co.jp##.name
 netmile.co.jp##.user-status > LI
 point-ex.jp##.header_account > A[href="/account.php"]
+point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
 ! [PointGame]
 ||ad-link.jp/*/advertise_*
 ||ad-link.jp/*/linkshare_*
@@ -700,8 +701,7 @@ service-navi.jp##.rightResult
 service-navi.jp##.tarot06 > div.leftResult
 service-navi.jp##.tarot06 > div.rightResult
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
-##a[href*="id=146143"]
-point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
+gendama.jp##a[href*="id=146143"]
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
 ||shop.ecnavi.jp.eimg.jp/shop_bc/img/logo_120x60/*
@@ -1423,6 +1423,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||rakuten.co.jp^*alpron*
 ||shopping.yahoo.co.jp^*alpron*
 ||vc-lab.com^
+||touchlab.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
