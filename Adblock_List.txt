@@ -1424,6 +1424,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||shopping.yahoo.co.jp^*alpron*
 ||vc-lab.com^
 ||touchlab.jp^
+||lab.magic-design.jp^
+||magic-design.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1751,12 +1753,13 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||hao222.com^
 ||hao123.apptizer.jp^
 ||apptizer.jp^
-! [ClutSoukagakkai-Korean_偽装・成りすまし・情報誘導系]
+! [ClutSoukagakkai-Korean_偽装・成りすまし・情報誘導・パクラー持ち上げステマ系]
 ||kokoro.squares.net^
 ||squares.net^
 ||johoguard.com^
 ||wiki.livedoor.jp^*watch_the_st*
 ||richardkoshimizu.at.webry.info^
+||moeruasia.net^
 ! [ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ 武闘派指定暴力団工藤会系要注意]
 ||twitter.com^*ClawLabo*
 ||facebook.com^*clawhair*
