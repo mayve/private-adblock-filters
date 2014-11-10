@@ -19,8 +19,8 @@
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
+@@||twittbot.net^$document
 ! [広告ブロックルール]/blocking
-||belluna.jp^
 ||benesse.ne.jp^
 ||point.jp^
 ||beauty-co.jp^
@@ -29,6 +29,8 @@
 ||renta.com^
 ||roy-union.com^
 ||allcoupon.jp/common/js/*
+||belluna.jp^
+||dhc.co.jp/category/*/top*
 |http://awasete.com/*
 |http://res.nimg.jp/swf/appli/applibar.swf
 ||readme-ch.net/viewcount/*
@@ -38,7 +40,6 @@
 ||waitcursor.files.wordpress.com/2012/06/*
 ||wordpress.com/*/msdn_orijinal_logo
 ||beauty.hotpepper.jp/CSP/c_common/ALL/IMG/cptop*
-||dhc.co.jp/category/*/top*
 ! [要素非表示ルール]/elemhide
 ###^adsense
 ###^adv
@@ -753,8 +754,8 @@ research-panel.jp##.author
 ||potora.jp/images/*ptop.swf
 ||potora.jp/images/*sp76
 ||potora.jp/images/*potoranohi*
-||potora.jp/images/*90-90*
 ||potora.jp/images/*43*43*
+||potora.jp/images/*90-90*
 ||potora.jp/images/*234*60*
 ||potora.jp/images/*120*60*
 ||potora.jp/images/*300*250*
@@ -772,10 +773,13 @@ research-panel.jp##.author
 ||potora.jp/images/others/bingo/720*180*
 ||potora.jp/images/others/bingo/top_mainvisual
 ||potora.jp/images/shopping/sp*/mainvisual.jpg
+||potora.jp/images/shopping/banner/*
 ||potora.jp/images/banner/*sh*
 ||potora.jp/images/special_list/*
 ||navienq.com/img/*kpsbn*banner*
 ||potora.jp/images/saving/stairs/stairs_extra.swf
+||potora.jp/images/top/camp/*
+||potora.jp/images/top/swfimg/*
 potora.jp###sec_buzzoo
 potora.jp###horoscope
 potora.jp###m-mypage-box-type
@@ -784,6 +788,7 @@ sh.potora.jp###newreview
 potora.jp##.txt_og > A[href^="http://potora.jp/nv/member/mypage/other/top/_/other_id/"]
 potora.jp###fixedItem_adbnr_sky
 potora.jp###shop-goods
+potora.jp###box_infoseek
 ! [ChanceIt]
 ||chance.com/image/clients/160*600*
 ||chance.com/image/clients/*200*200*
@@ -1431,6 +1436,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||saraya.com^*handlab*
 ||p-labo.biz^
 ||iinalab.jp^
+||skklab.com^
+||maya02.blog3.fc2.com^
+||y-e-lab.cd-pf.net^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
