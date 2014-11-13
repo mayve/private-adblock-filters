@@ -701,6 +701,7 @@ service-navi.jp##.leftResult
 service-navi.jp##.rightResult
 service-navi.jp##.tarot06 > div.leftResult
 service-navi.jp##.tarot06 > div.rightResult
+gendama.jp###request_answer_box
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
 gendama.jp##a[href*="id=146143"]
 ! [ECNavi]
@@ -1439,6 +1440,10 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||skklab.com^
 ||maya02.blog3.fc2.com^
 ||y-e-lab.cd-pf.net^
+||makisato.jp^
+||komichi.loops.jp^*makisato*
+||hikarimatsuri.org^
+||facebook.com/*%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
@@ -1577,6 +1582,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||kokoro-switch.com^
 ||apple.com^*gao-hai-yuande-ji-jiao-huan*
 ||jig.jp^
+||radiation-japan.info^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
 ! [ClutSoukagakkai-Korean_Pakuri]
