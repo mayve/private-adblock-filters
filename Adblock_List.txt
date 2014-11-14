@@ -611,6 +611,7 @@ fruitmail.excite.co.jp##DIV[style="float:right;margin:1em 0 1em 0;width:180px;"]
 fruitmail.excite.co.jp##DIV[style="float:right;margin:0 0 1em 0;width:300px;"]
 apricot.fruitmail.net###voiceBox
 fruitmail.net###pickup_point
+fruitmail.ib-game.jp###adOverlay
 ! [Tremii]
 |http://www.tremii.com/js/new_chumokukw*.js
 tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
@@ -834,12 +835,11 @@ digimaga.net##.^ad
 2chan.net##.ftbl *
 mimizun.com###adleft
 ! [pixiv]
-pixiv.net###^ad
-pixiv.net##.^ad
 pixiv.net##.ad
 pixiv.net##.area_new
 pixiv.net##.area_rightNews.linkStyle
 pixiv.net##.hotspot
+pixiv.net##.ads_area
 ! [Togetter]
 togetter.com##[src^="http://ecx.images-amazon.com/"]
 togetter.com##[src^="http://www.amazon.co.jp/"]
@@ -1444,6 +1444,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||komichi.loops.jp^*makisato*
 ||hikarimatsuri.org^
 ||facebook.com/*%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C*
+||geinolabo.ldblog.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
