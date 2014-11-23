@@ -1443,8 +1443,13 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||makisato.jp^
 ||komichi.loops.jp^*makisato*
 ||hikarimatsuri.org^
-||facebook.com/*%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C*
+||facebook.com^*%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C*
 ||geinolabo.ldblog.jp^
+||utlab.jp^
+||re-dermalab.jp^
+||rakuten.co.jp^*re-dermalab*
+||リ・ダーマラボ99.net^
+||xn--99-0i4auej0ee0lk.net^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||medical.yahoo.co.jp^*hdl*
