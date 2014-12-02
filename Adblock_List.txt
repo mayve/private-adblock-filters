@@ -19,7 +19,6 @@
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
-@@||twittbot.net^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -1299,10 +1298,16 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||gunze-store.jp^
 ||3838.com^
 ||nlab.itmedia.co.jp^
+||nlab.jp^
 ##[href*="nlab"]
 ##[src*="nlab"]
 ##[alt*="nlab"]
 ##[title*="nlab"]
+||keibalab.jp^
+||do-innovation.co.jp^
+||umalab.net^
+||medical.yahoo.co.jp^*hdl*
+||medical.yahoo.co.jp^
 ||hatelabo.jp^
 ||team-lab.com^
 ||hyaku-lab.net^
@@ -1322,7 +1327,6 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||northbio.co.jp^
 ||hadajuntou-clear.com^
 ||n-labo.jp^
-||keibalab.jp^
 ||nitta-biolab.co.jp^
 ||kinokolabo.jp^
 ||d-laboweb.jp^
@@ -1445,15 +1449,21 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||hikarimatsuri.org^
 ||facebook.com^*%E3%81%B2%E3%81%8B%E3%82%8A%E7%A5%AD%E3%82%8A%E4%BC%9A%E5%A0%B4-%E7%89%A7%E9%83%B7%E3%83%A9%E3%83%9C*
 ||geinolabo.ldblog.jp^
-||utlab.jp^
 ||re-dermalab.jp^
 ||rakuten.co.jp^*re-dermalab*
 ||リ・ダーマラボ99.net^
 ||xn--99-0i4auej0ee0lk.net^
+||bodycare-lab.com^
+||object-lab.co.jp^
+||utlab.jp^
+||katariba.net^
+||katariba.or.jp^
+||b-lab.tokyo^
+||c-labo.jp^
+||ameblo.jp^*musee-labo*
+||ameba.jp^*musee-labo*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
-||medical.yahoo.co.jp^*hdl*
-||medical.yahoo.co.jp^
 ||fuminsaimin.com^
 ||huminsyoulabo.com^
 ||suiminlab.com^
@@ -1591,7 +1601,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||radiation-japan.info^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
-! [ClutSoukagakkai-Korean パクリ ペニオク詐欺 関東連合等犯罪系含]
+! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ##[title*="ダンボー"]
 ##a[href*="%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC"]
 ##a[href*="%e3%83%80%e3%83%b3%e3%83%9c%e3%83%bc"]
@@ -1674,10 +1684,13 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||join.biglobe.ne.jp^
 ||rabitsokuhou.2chblog.jp^
 ||youtube.com^*FairiesCH*
+||a-p.mobi^
 ||241241.jp^
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
 ||youtu.be^*-Mo3OB0RGmo*
+||ameba.jp^*doronpa01*
+||ameblo.jp^*doronpa01*
 ||ameba.jp^*higashihara-aki*
 ||ameblo.jp^*higashihara-aki*
 ! [Malware&Phishing(China)]
