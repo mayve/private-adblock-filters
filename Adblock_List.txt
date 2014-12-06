@@ -1808,6 +1808,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||squares.net^
 ||johoguard.com^
 ||wiki.livedoor.jp^*watch_the_st*
+||qlife.jp^
 ||richardkoshimizu.at.webry.info^
 ||moeruasia.net^
 ||alfalfalfa.com^
