@@ -1467,6 +1467,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||katariba.or.jp^
 ||b-lab.tokyo^
 ||barrier-free-jp.com^*ucl*
+||barrier-free-jp.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
@@ -1671,6 +1672,10 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||skin-shiney.info^
 ||linne.co.jp^
 ||proactiv.jp^
+||guthy-renker.co.jp^
+||grj-m.jp^
+||may-j.com^
+||supalove.com^
 ||zoff.co.jp^
 ||travel-patterns-cp.com^
 ||jins-jp.com^
