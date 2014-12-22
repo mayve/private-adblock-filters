@@ -1468,6 +1468,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||b-lab.tokyo^
 ||barrier-free-jp.com^*ucl*
 ||barrier-free-jp.com^
+||woman.excite.co.jp^*tokimeki*
+||woman.excite.co.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
@@ -1816,3 +1818,13 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||twitter.com^*ClawLabo*
 ||facebook.com^*clawhair*
 ||clawhair.com^
+! [情報商材・詐欺系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
+||1000faith.com^
+||bustup-labo.com^
+||rakuten.co.jp^*1000faith*
+||rakuten.co.jp^*bustup-labo*
+||rakuten.co.jp^*1000faith*bustup-labo*
+||shopping.yahoo.co.jp^*1000faith*
+||shopping.yahoo.co.jp^*bustup-labo*
+||shopping.yahoo.co.jp^*1000faith*bustup-labo*
+||bustup-labo.biz^
