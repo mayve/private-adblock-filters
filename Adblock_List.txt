@@ -499,6 +499,7 @@ netmile.co.jp##.name
 netmile.co.jp##.user-status > LI
 point-ex.jp##.header_account > A[href="/account.php"]
 point-ex.jp##.userInfo > P > A[href="http://www.point-ex.jp/account.php"]
+nikkei-r.co.jp##.user-name
 ! [PointGame]
 ||ad-link.jp/*/advertise_*
 ||ad-link.jp/*/linkshare_*
@@ -1470,6 +1471,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||barrier-free-jp.com^
 ||woman.excite.co.jp^*tokimeki*
 ||woman.excite.co.jp^
+||bibilab.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
