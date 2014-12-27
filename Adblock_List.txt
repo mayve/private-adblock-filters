@@ -517,6 +517,7 @@ up-current.co.jp##.ranking LI
 ||ecnavi.gamefactory.jp/assets/contents/*pickup_hover.png
 gamefactory.jp###footer-ad-container
 pointgame.infoq.jp###main_head_ssp
+ad-link.jp##[href*="pid=1000006534"]
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
