@@ -1473,6 +1473,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||woman.excite.co.jp^*tokimeki*
 ||woman.excite.co.jp^
 ||bibilab.jp^
+||ameblo.jp^*musashino-kanri*
+||ameba.jp^*musashino-kanri*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
