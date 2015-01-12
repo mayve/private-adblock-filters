@@ -750,6 +750,7 @@ search.ecnavi.jp###shop
 search.ecnavi.jp###yahoo_auction
 search.ecnavi.jp##.Attribute_keyword
 research-panel.jp##.author
+shufoo.net###gn_lead > P
 ! [Potora]
 ||potora.jp/js/noticegoods.js
 ||potora.jp/common/js/jquery/loopedslider.js
