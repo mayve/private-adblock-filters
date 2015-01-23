@@ -19,6 +19,7 @@
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
+@@||mayve.tumblr.com^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -613,6 +614,7 @@ fruitmail.excite.co.jp##DIV[style="float:right;margin:0 0 1em 0;width:300px;"]
 apricot.fruitmail.net###voiceBox
 fruitmail.net###pickup_point
 fruitmail.ib-game.jp###adOverlay
+fruitmail.net###searchBlock .keywords
 ! [Tremii]
 |http://www.tremii.com/js/new_chumokukw*.js
 tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
@@ -753,7 +755,6 @@ research-panel.jp##.author
 shufoo.net###gn_lead > P
 ! [Potora]
 ||potora.jp/js/noticegoods.js
-||potora.jp/common/js/jquery/loopedslider.js
 ||potora.jp/common/js/shopping_global.js
 ||potora.jp/images/*ptop.swf
 ||potora.jp/images/*sp76
@@ -1315,6 +1316,13 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||team-lab.com^
 ||hyaku-lab.net^
 ||hazardlab.jp^
+||hazard-lab.jp^
+||hazard-labo.jp^
+||hazardlabo.jp^
+||pod.co.jp^
+||pod2.jp^
+||pod.tv^
+||stylecast.jp^
 ||ci-labo.com^
 ||labo2.jp^
 ||office-p-labo.com^
@@ -1601,6 +1609,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||bookoff.co.jp^
 ||bookoffonline.co.jp^
 ||zara.com^
+||www.collavier.com^
 ||attrip.jp^
 ||webtest.jp^
 ||paka3.net^
