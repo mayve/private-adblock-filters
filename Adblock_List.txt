@@ -1484,6 +1484,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||bibilab.jp^
 ||ameblo.jp^*musashino-kanri*
 ||ameba.jp^*musashino-kanri*
+||scalp-d.angfa-store.jp^
+||digram-sindan.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
