@@ -20,6 +20,7 @@
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
 @@||mayve.tumblr.com^$document
+@@||amazon.co.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -785,6 +786,8 @@ shufoo.net###gn_lead > P
 ||potora.jp/images/saving/stairs/stairs_extra.swf
 ||potora.jp/images/top/camp/*
 ||potora.jp/images/top/swfimg/*
+||ct.potora.jp/images/top/img/cara*
+||ct.potora.jp/images/top/img/sidettl_every*
 potora.jp###sec_buzzoo
 potora.jp###horoscope
 potora.jp###m-mypage-box-type
@@ -793,7 +796,7 @@ sh.potora.jp###newreview
 potora.jp##.txt_og > A[href^="http://potora.jp/nv/member/mypage/other/top/_/other_id/"]
 potora.jp###fixedItem_adbnr_sky
 potora.jp###shop-goods
-potora.jp###box_infoseek
+potora.jp##.c-sec.sec--infoseek.cf
 ! [ChanceIt]
 ||chance.com/image/clients/160*600*
 ||chance.com/image/clients/*200*200*
