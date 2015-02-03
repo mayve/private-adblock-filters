@@ -19,8 +19,9 @@
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
-@@||mayve.tumblr.com^$document
 @@||amazon.co.jp^$document
+@@||pex.jp/search?Keywords=^$document
+@@||www.tumblr.com/edit/|$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -778,6 +779,7 @@ shufoo.net###gn_lead > P
 ||potora.jp/images/game/link_aima.jpg
 ||potora.jp/images/others/bingo/720*180*
 ||potora.jp/images/others/bingo/top_mainvisual
+||potora.jp/images/others/sugoroku/top_img*
 ||potora.jp/images/shopping/sp*/mainvisual.jpg
 ||potora.jp/images/shopping/banner/*
 ||potora.jp/images/banner/*sh*
@@ -1489,6 +1491,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||ameba.jp^*musashino-kanri*
 ||scalp-d.angfa-store.jp^
 ||digram-sindan.com^
+||cookpad-diet.jp^
+||cookpad.com^
+||rakuten.co.jp^*infinityslab*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
