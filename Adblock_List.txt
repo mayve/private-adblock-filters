@@ -1497,8 +1497,12 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||rakuten.co.jp^*infinityslab*
 ||b-lab.jp^
 ||fordel.jp^
-||ecdeiku.com
+||ecdeiku.com^
 ||im-o.jp^
+||chocolabo.or.jp^
+||chocolabo.com^
+||chocolabo-test.stores.jp^
+||iyobank.co.jp^*chocolabo*
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
