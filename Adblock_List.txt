@@ -86,6 +86,7 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
+gamefactory.jp##.overlay-box
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -1494,6 +1495,10 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||cookpad-diet.jp^
 ||cookpad.com^
 ||rakuten.co.jp^*infinityslab*
+||b-lab.jp^
+||fordel.jp^
+||ecdeiku.com
+||im-o.jp^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
