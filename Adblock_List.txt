@@ -22,6 +22,7 @@
 @@||amazon.co.jp^$document
 @@||pex.jp/search?Keywords=^$document
 @@||www.tumblr.com/edit/|$document
+@@|http://www.chobirich.com/earn/|$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -499,6 +500,7 @@ myvoice.co.jp##DIV[style="font-weight:bold;text-align:left;color:#660000;font-si
 myvoice.co.jp##P[align="center"]
 mypage.cue-monitor.jp###pointBox > .hello
 mypage.cue-monitor.jp###login-info > .login-name.mr20 > STRONG
+web-mc.net##.mytop_name
 websearch.rakuten.co.jp###pnvUserName
 netmile.co.jp##.name
 netmile.co.jp##.user-status > LI
@@ -1422,6 +1424,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||rim.or.jp^*lisalabo*
 ||ringer.cocolog-nifty.com^*kunst_und_medizin*
 ||ringer.cocolog-nifty.com^
+||twitter.com^*ClawLabo*
+||facebook.com^*clawhair*
+||clawhair.com^
 ||kis-lab.com^
 ||sugio-garden.com^
 ||n-lab.co.jp^
@@ -1504,6 +1509,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||chocolabo.com^
 ||chocolabo-test.stores.jp^
 ||iyobank.co.jp^*chocolabo*
+||fxtrade-lab.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
@@ -1708,11 +1714,6 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||repro-sk.com^
 ||skin-shiney.info^
 ||linne.co.jp^
-||proactiv.jp^
-||guthy-renker.co.jp^
-||grj-m.jp^
-||may-j.com^
-||supalove.com^
 ||zoff.co.jp^
 ||travel-patterns-cp.com^
 ||jins-jp.com^
@@ -1726,20 +1727,14 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||maisoku.net^
 ||bikan-aojiru.jp^
 ||karadano-recipe.com^
-||girls-award.com^
-||rakuten.co.jp^*girlsaward*
 ||join.biglobe.ne.jp^
 ||rabitsokuhou.2chblog.jp^
-||youtube.com^*FairiesCH*
-||a-p.mobi^
 ||241241.jp^
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
 ||youtu.be^*-Mo3OB0RGmo*
 ||ameba.jp^*doronpa01*
 ||ameblo.jp^*doronpa01*
-||ameba.jp^*higashihara-aki*
-||ameblo.jp^*higashihara-aki*
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
@@ -1849,10 +1844,20 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||richardkoshimizu.at.webry.info^
 ||moeruasia.net^
 ||alfalfalfa.com^
-! [ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ 武闘派指定暴力団工藤会系要注意]
-||twitter.com^*ClawLabo*
-||facebook.com^*clawhair*
-||clawhair.com^
+! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
+||alice-project.biz^
+||a-p.mobi^
+||paselabo.tv^
+||youtube.com^*FairiesCH*
+||girls-award.com^
+||rakuten.co.jp^*girlsaward*
+||ameba.jp^*higashihara-aki*
+||ameblo.jp^*higashihara-aki*
+||proactiv.jp^
+||guthy-renker.co.jp^
+||grj-m.jp^
+||may-j.com^
+||supalove.com^
 ! [情報商材・詐欺系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||1000faith.com^
 ||bustup-labo.com^
