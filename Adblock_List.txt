@@ -23,6 +23,7 @@
 @@||pex.jp/search?Keywords=^$document
 @@||www.tumblr.com/edit/|$document
 @@|http://www.chobirich.com/earn/|$document
+@@|http://cli.linksynergy.com/cli/publisher/home.php|$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -1374,7 +1375,17 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||as-lab.jp^
 ||shiraselab.com^
 ||appmarketinglabo.net^
+||keepergiken.co.jp^
+||keepre.jp^
+||keeper-labo.jp^
+||keepercoating.jp^
+||keepercoating-labo.jp^
+||keepercoatinglabo.jp^
 ||keeperlabo.jp^
+||keeperproshop.jp^
+||keeperyoyaku.jp^
+||keepergiken.jp^
+||sensya.com^
 ||ahead-lab.com^
 ||nemuri-lab.jp^
 ||brainhealth.jp^
@@ -1688,6 +1699,8 @@ gesoten.com##[href*="profile/detail/71933"]
 gesoten.com##[href*="profile/detail/429801"]
 gesoten.com##[href*="profile/detail/94825"]
 pointtown.com##[href*="/poitto/ooo7UKC/"]
+||mousouteki.blog53.fc2.com^
+||mousouteki.blog.fc2.com^
 ||kababooks.com^
 ##[href*="kababooks"]
 ##[src*="kababooks"]
