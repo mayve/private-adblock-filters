@@ -1512,6 +1512,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||cookpad-diet.jp^
 ||cookpad.com^
 ||rakuten.co.jp^*infinityslab*
+||fxtrade-lab.com^
 ||b-lab.jp^
 ||fordel.jp^
 ||ecdeiku.com^
@@ -1520,7 +1521,15 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||chocolabo.com^
 ||chocolabo-test.stores.jp^
 ||iyobank.co.jp^*chocolabo*
-||fxtrade-lab.com^
+||warechoco.com^
+||rakuten.co.jp^*bea-labo*
+||shopping.yahoo.co.jp^*kamachu*
+||rakuten.ne.jp^*kamachu
+||gnavi.co.jp^*kamachu*
+||ponparemall.com^*kamachu*
+||ponparemall.com^*b-labo*
+||b-labo.ne.jp^
+||daisukichocolate.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
