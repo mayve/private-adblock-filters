@@ -1513,6 +1513,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||cookpad.com^
 ||rakuten.co.jp^*infinityslab*
 ||fxtrade-lab.com^
+||jyoshige.livedoor.biz^
 ||b-lab.jp^
 ||fordel.jp^
 ||ecdeiku.com^
@@ -1867,6 +1868,11 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||moeruasia.net^
 ||alfalfalfa.com^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
+||mayn.jp^
+||ameblo.jp^*mayn-blog*
+||twitter.com^*mayn_tw*
+||facebook.com^*mayn.official*
+||jvcmusic.co.jp^*flyingdog*A021682.html
 ||alice-project.biz^
 ||a-p.mobi^
 ||paselabo.tv^
