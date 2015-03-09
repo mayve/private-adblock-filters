@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! [例外ルール]/whitelist
-@@||www.google.co.jp/search?$document
 @@||aguse.jp^$document
 @@||topsy.com^
 @@||amazon.co.jp/gp/$document
@@ -44,6 +43,9 @@
 ||waitcursor.files.wordpress.com/2012/06/*
 ||wordpress.com/*/msdn_orijinal_logo
 ||beauty.hotpepper.jp/CSP/c_common/ALL/IMG/cptop*
+||im.ov.yahoo.co.jp/js_flat/*
+||media.gssp.asia^
+||banner.dspcdn.com^
 ! [要素非表示ルール]/elemhide
 ###^adsense
 ###^adv
@@ -503,6 +505,7 @@ mypage.cue-monitor.jp###pointBox > .hello
 mypage.cue-monitor.jp###login-info > .login-name.mr20 > STRONG
 web-mc.net##.mytop_name
 websearch.rakuten.co.jp###pnvUserName
+websearch.rakuten.co.jp##.account > [href="#"]
 netmile.co.jp##.name
 netmile.co.jp##.user-status > LI
 point-ex.jp##.header_account > A[href="/account.php"]
@@ -1333,6 +1336,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||pod2.jp^
 ||pod.tv^
 ||stylecast.jp^
+||sansaibooks.co.jp^*glabo*
 ||ci-labo.com^
 ||labo2.jp^
 ||office-p-labo.com^
