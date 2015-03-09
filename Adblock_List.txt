@@ -1527,6 +1527,14 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||yahoo.co.jp^*pureb*
 ||netprice.co.jp^*721817*
 ||tnr-tsuyoshi.com^
+||venuslab.jp^
+||facebook.com^*takahiro.kanemura*
+||smmlab.jp^
+||facebook.com^*smmlab
+||g-sign.jp^
+||kensho3.jp^
+||wo-market.jp^
+||irie-communications.jp^
 ||chocolabo.or.jp^
 ||chocolabo.com^
 ||chocolabo-test.stores.jp^
