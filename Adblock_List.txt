@@ -1522,6 +1522,11 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||fordel.jp^
 ||ecdeiku.com^
 ||im-o.jp^
+||rakuten.co.jp^*tnr*
+||rakuten.co.jp^*purecrysty*
+||yahoo.co.jp^*pureb*
+||netprice.co.jp^*721817*
+||tnr-tsuyoshi.com^
 ||chocolabo.or.jp^
 ||chocolabo.com^
 ||chocolabo-test.stores.jp^
