@@ -12,7 +12,6 @@
 @@||losslab.blogspot.com,losslab.blogspot.jp^$document
 @@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
-@@||poncan.jp^$document
 @@|http://img.gendama.jp/banner/bt_day.gif
 @@||crowd-app.realworld.jp^$document
 @@||monitorpage.mc-netsurvey.com^$document
@@ -529,6 +528,7 @@ up-current.co.jp##.ranking LI
 gamefactory.jp###footer-ad-container
 pointgame.infoq.jp###main_head_ssp
 ad-link.jp##[href*="pid=1000006534"]
+||poncan.jp/images/banners/*kousoplacenta*
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -753,6 +753,7 @@ ecnavi.jp###apos_point_history_banner IMG
 ecnavi.jp###result .shop_info
 ecnavi.jp###\31 -10067683
 ecnavi.jp##.user_name > SPAN
+ecnavi.jp###new_affiliate
 kensho.ecnavi.jp###ekiden IFRAME
 kensho.ecnavi.jp##.rectangle
 search.ecnavi.jp###amazon_items
@@ -1500,12 +1501,6 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||ohnishi.livedoor.biz^
 ||magazine.livedoor.com/magazine/16*
 ||j-president.net^*株式会社ビジネスラボ-大西宏*
-||utlab.jp^
-||katariba.net^
-||katariba.or.jp^
-||b-lab.tokyo^
-||barrier-free-jp.com^*ucl*
-||barrier-free-jp.com^
 ||woman.excite.co.jp^*tokimeki*
 ||woman.excite.co.jp^
 ||bibilab.jp^
@@ -1515,26 +1510,15 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||digram-sindan.com^
 ||cookpad-diet.jp^
 ||cookpad.com^
-||rakuten.co.jp^*infinityslab*
 ||fxtrade-lab.com^
 ||jyoshige.livedoor.biz^
-||b-lab.jp^
-||fordel.jp^
-||ecdeiku.com^
-||im-o.jp^
-||rakuten.co.jp^*tnr*
-||rakuten.co.jp^*purecrysty*
-||yahoo.co.jp^*pureb*
-||netprice.co.jp^*721817*
-||tnr-tsuyoshi.com^
-||venuslab.jp^
-||facebook.com^*takahiro.kanemura*
-||smmlab.jp^
-||facebook.com^*smmlab
-||g-sign.jp^
-||kensho3.jp^
-||wo-market.jp^
-||irie-communications.jp^
+||labunix.hateblo.jp^
+||utlab.jp^
+||katariba.net^
+||katariba.or.jp^
+||b-lab.tokyo^
+||barrier-free-jp.com^*ucl*
+||barrier-free-jp.com^
 ||chocolabo.or.jp^
 ||chocolabo.com^
 ||chocolabo-test.stores.jp^
@@ -1903,7 +1887,11 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||grj-m.jp^
 ||may-j.com^
 ||supalove.com^
-! [情報商材・詐欺系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
+! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
+||tehu.me^
+||gendai.ismedia.jp^
+||kai-you.net^
+||kai-you.co.jp^
 ||1000faith.com^
 ||bustup-labo.com^
 ||rakuten.co.jp^*1000faith*
@@ -1913,3 +1901,21 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||shopping.yahoo.co.jp^*bustup-labo*
 ||shopping.yahoo.co.jp^*1000faith*bustup-labo*
 ||bustup-labo.biz^
+||rakuten.co.jp^*infinityslab*
+||b-lab.jp^
+||fordel.jp^
+||ecdeiku.com^
+||im-o.jp^
+||rakuten.co.jp^*tnr*
+||rakuten.co.jp^*purecrysty*
+||yahoo.co.jp^*pureb*
+||netprice.co.jp^*721817*
+||tnr-tsuyoshi.com^
+||venuslab.jp^
+||facebook.com^*takahiro.kanemura*
+||smmlab.jp^
+||facebook.com^*smmlab*
+||g-sign.jp^
+||kensho3.jp^
+||wo-market.jp^
+||irie-communications.jp^
