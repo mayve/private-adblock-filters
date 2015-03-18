@@ -1669,6 +1669,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||kokoro-switch.com^
 ||apple.com^*gao-hai-yuande-ji-jiao-huan*
 ||jig.jp^
+||asahibeer.co.jp^
 ||radiation-japan.info^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
