@@ -22,6 +22,7 @@
 @@||www.tumblr.com/edit/|$document
 @@|http://www.chobirich.com/earn/|$document
 @@|http://cli.linksynergy.com/cli/publisher/home.php|$document
+@@||rakuten.ne.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -491,6 +492,10 @@ cue-monitor.jp###localNav
 ##A[href*="cue-monitor.jp/recruit"]
 ! [id]
 research.rakuten.co.jp##.monitorNav > P > STRONG
+rakuten.co.jp##A[href^="https://rd.rakuten.co.jp/s/?R2=https%3A%2F%2Fmy.rakuten.co.jp%2F%3Fl-id%3Dmyrakuten"]
+websearch.rakuten.co.jp##.account > [href="#"]
+rakuten.co.jp##[href="http://my.travel.rakuten.co.jp/mytravel/"] > B
+monitor.macromill.com##.messageTxt
 research-panel.jp##.name
 monitor.i-research.jp##.name > SPAN
 cpp.ne.jp###mo_name + * TD[style="font-size: 14px;"]
@@ -503,8 +508,6 @@ myvoice.co.jp##P[align="center"]
 mypage.cue-monitor.jp###pointBox > .hello
 mypage.cue-monitor.jp###login-info > .login-name.mr20 > STRONG
 web-mc.net##.mytop_name
-websearch.rakuten.co.jp###pnvUserName
-websearch.rakuten.co.jp##.account > [href="#"]
 netmile.co.jp##.name
 netmile.co.jp##.user-status > LI
 point-ex.jp##.header_account > A[href="/account.php"]
@@ -1865,6 +1868,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||squares.net^
 ||johoguard.com^
 ||wiki.livedoor.jp^*watch_the_st*
+||mousou.apned.com^
 ||qlife.jp^
 ||richardkoshimizu.at.webry.info^
 ||moeruasia.net^
