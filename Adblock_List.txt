@@ -628,6 +628,7 @@ apricot.fruitmail.net###voiceBox
 fruitmail.net###pickup_point
 fruitmail.ib-game.jp###adOverlay
 fruitmail.net###searchBlock .keywords
+fruitmail.net##.fortune_top
 ! [Tremii]
 |http://www.tremii.com/js/new_chumokukw*.js
 tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
@@ -1516,6 +1517,14 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||fxtrade-lab.com^
 ||jyoshige.livedoor.biz^
 ||labunix.hateblo.jp^
+||my-labo.jp^
+||rakuten.co.jp^*mylab*
+||yahoo.co.jp^*mylab*
+||store.ponparemall.com^*mylab*
+||groupon.jp^*cid/14767*
+||dena-ec.com^*user/19707963*
+||prhythm.co.jp^
+||prism-hk.jp^
 ||utlab.jp^
 ||katariba.net^
 ||katariba.or.jp^
@@ -1868,6 +1877,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||squares.net^
 ||johoguard.com^
 ||wiki.livedoor.jp^*watch_the_st*
+||apned.com^
 ||mousou.apned.com^
 ||qlife.jp^
 ||richardkoshimizu.at.webry.info^
