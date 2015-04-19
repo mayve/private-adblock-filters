@@ -23,6 +23,7 @@
 @@|http://www.chobirich.com/earn/|$document
 @@|http://cli.linksynergy.com/cli/publisher/home.php|$document
 @@||rakuten.ne.jp^$document
+@@||ad.poncan.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -474,6 +475,7 @@ gree.jp###news
 gree.jp##.suggestion.guidance.celeb
 ! [Macromill]
 monitor.macromill.com##TD[style="white-space:nowrap; font-weight:bold; padding-top:2px;"]
+||monitor.macromill.com/my/img/02_banner.gif?*
 ! [FastAsk]
 monitor.fast-ask.com##.fa-home-video
 |http://monitor.fast-ask.com/guest/home/css/images/fa-monitor-guest-home-image
@@ -635,17 +637,19 @@ tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
 tremii.excite.co.jp##.lh120 A[href^="http://www.excite.co.jp/relocate/co=jp/xsr/relatedkeywords_east/tremii/combined/"]
 tremii.excite.co.jp##DIV[style="float:right;margin:1em 0 1em 0;width:180px;"]
 ! [NetMile]
-||netmile.co.jp/sp/game/common/images/game_img.png
 ||netmile.co.jp/sp/game/common/images/*_main_img.png
 ||netmile.co.jp/sp/game/common/images/*_game_img.png
 ||netmile.co.jp/sp/game/common/images/*_game_img_*.png
 ||netmile.co.jp/sp/game/common/images/*_comp_img_edge3.png
+||netmile.co.jp/sp/game/common/images/game_img.png
 ||netmile.co.jp/cpn/*/banner/*
 ||netmile.co.jp/nm_biz/treasure/images/syutore_4coma*
 ||ad-factory.netmile.co.jp/adtr/banner?*
 ||netmile.co.jp/sp/images/detail/game_banner*
 md.netmile.co.jp##A[href^="/sp/ac"]
 netmile.co.jp###get IMG[width="300"][height="200"][src^="/sp/game/common/images/"]
+netmile.co.jp##.infoseek-content
+sugutama.jp##.news-content
 ! [Hapitas]
 ||img.dorubako.jp/img/camp_banner/img*
 hapitas.jp##.four_slide_content_image
@@ -1332,6 +1336,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||medical.yahoo.co.jp^
 ||hatelabo.jp^
 ||team-lab.com^
+||team-lab.net^
 ||hyaku-lab.net^
 ||hazardlab.jp^
 ||hazard-lab.jp^
@@ -1873,6 +1878,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||hao123.apptizer.jp^
 ||apptizer.jp^
 ! [ClutSoukagakkai-Korean_偽装・成りすまし・情報誘導・パクラー持ち上げステマ系]
+||h2s.roheisen.net^
+||roheisen.net^
 ||kokoro.squares.net^
 ||squares.net^
 ||johoguard.com^
