@@ -7,7 +7,6 @@
 @@||member.accesstrade.net^$document
 @@||valuecommerce.ne.jp/portal/$third-party
 @@||sourcenext.com^$document
-@@||admin.blog.fc2.com^$document
 @@||blog.shinobi.jp^$document
 @@||losslab.blogspot.com,losslab.blogspot.jp^$document
 @@||member.amazonet.com^$document
@@ -91,6 +90,7 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
+ecnavi.jp###contents_news
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -737,9 +737,9 @@ gendama.jp##a[href*="id=146143"]
 ||ecnavi.jp^*wakuwakusan*
 |http://ecnavi.jp/web_sync/information/*
 ||pex.jp^*120*60*
+||pex.jp/point_ad/detail?id=DYoEX4E9
 ||picmy.jp^
 ##[src*="picmy"]
-##A[href*="http://picmy.jp/"]
 ecnavi.jp##.attentionword
 ecnavi.jp###whatsnew
 ecnavi.jp###shunkan
@@ -756,7 +756,6 @@ ecnavi.jp###sale_info
 ecnavi.jp##IMG[src^="http://img.adplan-ds.com/"]
 ecnavi.jp##IMG[src^="http://img.accesstrade.net/"]
 ecnavi.jp##IMG[src^="http://reward.gree.net/"]
-ecnavi.jp##IMG[src^="http://image.smart-c.jp/"]
 ecnavi.jp###apos_point_history_banner IMG
 ecnavi.jp###result .shop_info
 ecnavi.jp###\31 -10067683
@@ -770,6 +769,7 @@ search.ecnavi.jp###result_item
 search.ecnavi.jp###shop
 search.ecnavi.jp###yahoo_auction
 search.ecnavi.jp##.Attribute_keyword
+##A[href*="http://pex.jp/point_ad/detail?id=DYoEX4E9"]
 research-panel.jp##.author
 shufoo.net###gn_lead > P
 ! [Potora]
@@ -1883,6 +1883,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||kokoro.squares.net^
 ||squares.net^
 ||johoguard.com^
+||ameba.jp^*jgblog*
+||ameblo.jp^*jgblog*
 ||wiki.livedoor.jp^*watch_the_st*
 ||apned.com^
 ||mousou.apned.com^
@@ -1909,6 +1911,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||grj-m.jp^
 ||may-j.com^
 ||supalove.com^
+||maayamiki.jimdo.com^
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 ||gendai.ismedia.jp^
