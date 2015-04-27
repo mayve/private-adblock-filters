@@ -23,6 +23,7 @@
 @@|http://cli.linksynergy.com/cli/publisher/home.php|$document
 @@||rakuten.ne.jp^$document
 @@||ad.poncan.jp^$document
+@@||stream.ne.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -90,7 +91,6 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
-ecnavi.jp###contents_news
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -763,11 +763,8 @@ ecnavi.jp##.user_name > SPAN
 ecnavi.jp###new_affiliate
 kensho.ecnavi.jp###ekiden IFRAME
 kensho.ecnavi.jp##.rectangle
-search.ecnavi.jp###amazon_items
-search.ecnavi.jp###rakuten_items
-search.ecnavi.jp###result_item
-search.ecnavi.jp###shop
-search.ecnavi.jp###yahoo_auction
+ecnavi.jp###contents_news
+ecnavi.jp##.search_box P > A[href^="/search"]
 search.ecnavi.jp##.Attribute_keyword
 ##A[href*="http://pex.jp/point_ad/detail?id=DYoEX4E9"]
 research-panel.jp##.author
@@ -1411,7 +1408,10 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||kitalabo.com^
 ||nueq.exblog.jp^
 ||suzuki.888j.net^
+||tres-star.jp^
 ||joylab.jp^
+||pricelab.jp^
+||priceplus.jp^
 ||twitter.com*matome_labo
 ||nulab.co.jp^
 ||nilab.info^
