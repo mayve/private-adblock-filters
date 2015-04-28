@@ -1326,6 +1326,14 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ##[src*="nlab"]
 ##[alt*="nlab"]
 ##[title*="nlab"]
+||iwatani-i-collect.com^
+||imcjpn.co.jp^
+||ishop.tbs.co.jp^
+||tbs.co.jp^
+||j-shopping.jp^
+||tvラジオショッピング.jp^
+||xn--tv-6g4aya8ae3fwgzgqa0j.jp^
+||ihopehouse.jp
 ||keibalab.jp^
 ||do-innovation.co.jp^
 ||umalab.net^
