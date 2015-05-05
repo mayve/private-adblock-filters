@@ -24,7 +24,6 @@
 @@||rakuten.ne.jp^$document
 @@||ad.poncan.jp^$document
 @@||stream.ne.jp^$document
-@@||mayve.tumblr.com^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -651,6 +650,7 @@ md.netmile.co.jp##A[href^="/sp/ac"]
 netmile.co.jp###get IMG[width="300"][height="200"][src^="/sp/game/common/images/"]
 netmile.co.jp##.infoseek-content
 sugutama.jp##.news-content
+sugutama.jp##IMG[alt="HMV "]
 ! [Hapitas]
 ||img.dorubako.jp/img/camp_banner/img*
 hapitas.jp##.four_slide_content_image
@@ -1533,6 +1533,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||fxtrade-lab.com^
 ||jyoshige.livedoor.biz^
 ||labunix.hateblo.jp^
+||c-lab.link^
 ||my-labo.jp^
 ||rakuten.co.jp^*mylab*
 ||yahoo.co.jp^*mylab*
