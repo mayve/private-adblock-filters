@@ -650,7 +650,8 @@ md.netmile.co.jp##A[href^="/sp/ac"]
 netmile.co.jp###get IMG[width="300"][height="200"][src^="/sp/game/common/images/"]
 netmile.co.jp##.infoseek-content
 sugutama.jp##.news-content
-sugutama.jp##IMG[alt="HMV "]
+sugutama.jp##IMG[alt*="HMV"]
+sugutama.jp##[data-id="390"]
 ! [Hapitas]
 ||img.dorubako.jp/img/camp_banner/img*
 hapitas.jp##.four_slide_content_image
@@ -762,6 +763,7 @@ ecnavi.jp###result .shop_info
 ecnavi.jp###\31 -10067683
 ecnavi.jp##.user_name > SPAN
 ecnavi.jp###new_affiliate
+ecnavi.jp###search_info + #shop
 kensho.ecnavi.jp###ekiden IFRAME
 kensho.ecnavi.jp##.rectangle
 ecnavi.jp###contents_news
