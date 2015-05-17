@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Checksum: QYk8cy7fc5XWNhRbvxrK2Q
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -47,6 +48,7 @@
 ||im.ov.yahoo.co.jp/js_flat/*
 ||media.gssp.asia^
 ||banner.dspcdn.com^
+||ads.nicovideo.jp/assets/js/*
 ! [要素非表示ルール]/elemhide
 ###^adsense
 ###^adv
@@ -728,6 +730,7 @@ service-navi.jp##.tarot06 > div.rightResult
 gendama.jp###request_answer_box
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
 gendama.jp##a[href*="id=146143"]
+gendama.jp##.ticker
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
 ||shop.ecnavi.jp.eimg.jp/shop_bc/img/logo_120x60/*
@@ -1662,8 +1665,6 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||labo.kani.co.jp^
 ||bustuplabo.com^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
-|http://firealpaca.com/
-||*alpaca*
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
 ||aleph-inc.co.jp^
@@ -1672,6 +1673,10 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||kuraray.co.jp^
 ||mirabakesso.jp^
 ||nissay-mirai.jp^
+||firealpaca.com^
+||cloudalpaca.com^
+||medibang.com^
+||*alpaca*
 yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||loppi.jp^
 ||hmv.co.jp^
@@ -1927,6 +1932,10 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||may-j.com^
 ||supalove.com^
 ||maayamiki.jimdo.com^
+||ameblo.jp^*maya-miyagawa*
+||ameba.jp^*maya-miyagawa*
+||instagram.com^*maya_m0901*
+||vithmicpro.co.jp^
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 ||gendai.ismedia.jp^
