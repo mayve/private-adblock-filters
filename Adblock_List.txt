@@ -24,6 +24,8 @@
 @@||rakuten.ne.jp^$document
 @@||ad.poncan.jp^$document
 @@||stream.ne.jp^$document
+@@||s0.1kibaku.jp^$document
+@@||s16.1kibaku.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -92,6 +94,7 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
+monow.jp##.search_section > UL
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -530,7 +533,8 @@ nikkei-r.co.jp##.user-name
 ||img01.ad-link.jp/bingo07/img/bg.jpg?*
 ad-link.jp##.pxm-promotion_img-src
 up-current.co.jp##.ranking LI
-||ecnavi.gamefactory.jp/assets/contents/*pickup_hover.png
+||gamefactory.jp/assets/contents/*pickup_hover.png
+||gamefactory.jp/assets/*overlay*
 gamefactory.jp###footer-ad-container
 pointgame.infoq.jp###main_head_ssp
 ad-link.jp##[href*="pid=1000006534"]
@@ -618,6 +622,8 @@ campaign.up-current.co.jp##.ranking
 ||excite.co.jp/search/popular_keywords_partner/fruitmail*
 |http://image.excite.co.jp/jp/soudan/photo/*
 ||www.fruitmail.net/top_infoseek_news*
+fruitmail.net##.winnerVoice
+fruitmail.net##.fortune_top
 fruitmail.net###infoseek
 fruitmail.net##.specialArea
 fruitmail.net##[id^="rectangle"] > IMG[width="300"][height="250"]
@@ -631,7 +637,6 @@ apricot.fruitmail.net###voiceBox
 fruitmail.net###pickup_point
 fruitmail.ib-game.jp###adOverlay
 fruitmail.net###searchBlock .keywords
-fruitmail.net##.fortune_top
 ! [Tremii]
 |http://www.tremii.com/js/new_chumokukw*.js
 tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
@@ -1342,6 +1347,12 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||tvラジオショッピング.jp^
 ||xn--tv-6g4aya8ae3fwgzgqa0j.jp^
 ||ihopehouse.jp
+||future-labo.com^
+||po-holdings.co.jp^
+||pola.co.jp^
+||orbis.co.jp^
+||future-lab.asia^
+||futurelab.or.jp^
 ||keibalab.jp^
 ||do-innovation.co.jp^
 ||umalab.net^
@@ -1538,6 +1549,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||fxtrade-lab.com^
 ||jyoshige.livedoor.biz^
 ||labunix.hateblo.jp^
+||richdad-lab.com^
 ||c-lab.link^
 ||my-labo.jp^
 ||rakuten.co.jp^*mylab*
@@ -1820,6 +1832,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||qlife.jp^
 ||richardkoshimizu.at.webry.info^
 ||moeruasia.net^
+||blog.livedoor.jp^*abechan_matome/*
 ||alfalfalfa.com^
 ||nakamichisokuho.com^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
