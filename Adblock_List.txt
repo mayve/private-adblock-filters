@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Checksum: 5yZ3Fe5MHCjzp6jIVsMXGA
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -309,8 +310,12 @@ biglobe.ne.jp###twipple.cf
 ||fc2.com/ana/analyzer
 |http://fc2.com/ad/
 |http://media.fc2.com/counter
-||media.fc2.com^
 ||aimg.fc2.com^
+||hypost.fc2.com/fc2ad.php
+admin.blog.fc2.com###ad_sidebody
+control.blog.fc2.com##.recent_tmpl
+blog102.fc2.com###bloginfo
+blog102.fc2.com##.recent_tmpl
 ###fc2analyzerold
 ##[href*=".fc2.com/"]$third-party
 fc2.com###^ad
@@ -332,9 +337,6 @@ fc2.com##A[href*="dlsite.com"]
 fc2.com##A[href*="dmm.co.jp"]
 fc2.com##A[href*="xii.jp"]
 fc2.com##[src*="dmm.co.jp"]
-blog102.fc2.com###bloginfo
-blog102.fc2.com##.recent_tmpl
-control.blog.fc2.com##.recent_tmpl
 ! [Ameba]
 ||ameba.jp/ameblo/pc/js/amebatopics*js
 ||ameba.jp/p_skin/basic_reader/swf/header.swf
@@ -567,6 +569,8 @@ linkshare.ne.jp##IMG[alt*="HMV"]
 ||pmall.gpoint.co.jp/images/shopbnr/GA0000102692.gif
 ||img.gpoint.co.jp/www/images/hensei/book*
 |http://img.gpoint.co.jp^*daredoko*
+||img.gpoint.co.jp/common/js/ga_game.js
+||img.gpoint.co.jp/www/images/flash/top_a.swf
 ||travel.gpoint.co.jp^*daredoko*
 |http://travel.gpoint.co.jp/daredoko/images/ttl_head01.gif
 e.gpoint.co.jp##.itembase
@@ -688,30 +692,15 @@ pointi.jp##.star
 pointi.jp##a[href*="sn=36425"]
 ! [Gendama]
 ||img.gendama.jp/banner/*
-||img.gendama.jp/facebookrc/*
 ||img.gendama.jp/banner/300*250*
-||img.gendama.jp/js/bijin/*
 ||img.gendama.jp/swf/index/gentamatop.swf
-||img.gpoint.co.jp/common/js/ga_game.js
-||img.gpoint.co.jp/www/images/flash/top_a.swf
-||rts.realworld.jp/banner*
-||static.realworld.jp/img/game/*
-||static.realworld.jp/js/game.js
-||static.realworld.jp/js/timeline.js
-||static.realworld.jp/js/introduction.js
-||static.realworld.jp/img/welcome/bg_point_wm.gif
-||static.realworld.jp/js/socialstream.js*
-||img.gendama.jp/img/bingo/*bingo.gif
 ||gendama.jp/mrga/img/right/ssp_back_anime.gif
-||point-ex.jp/img/scratch/shines.gif
+||rts.realworld.jp/banner*
+||static.realworld.jp/img/welcome/bg_point_wm.gif
 ||static.realworld.jp/uploaded/apps/images/*
+||img.gendama.jp/img/bingo/*bingo.gif
+||point-ex.jp/img/scratch/shines.gif
 ||monow.jp/dialog_superad^
-||chancemaster.realworld.jp^
-##a[href*="chanmasu"]
-##a[href*="chancemaster"]
-##[src*="chanmasu"]
-##[src*="chancemaster"]
-##IMG[src^="http://static.realworld.jp/img/game/supercity/"]
 gendama.jp##MARQUEE
 gendama.jp###stream > #Messages > #twitter-results
 gendama.jp###co_cyumoku
@@ -1733,6 +1722,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||hitorigoto-kokoro.blogspot.com^
 ||kt-yh6494.blog.so-net.ne.jp^
 ||yomei3archives.blog.fc2.com^
+||news-us.jp^
 ||takarin7.seesaa.net^
 ||rabitsokuhou.2chblog.jp^
 ##[title*="ダンボー"]
@@ -1834,7 +1824,9 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||moeruasia.net^
 ||blog.livedoor.jp^*abechan_matome/*
 ||alfalfalfa.com^
+||majikichi.com^
 ||nakamichisokuho.com^
+||livedoor.jp^*qmanews*
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
