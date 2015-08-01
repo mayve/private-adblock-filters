@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5yZ3Fe5MHCjzp6jIVsMXGA
+! Checksum: o4Hjs5/A2mUAbYd/Ma9Ypg
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
 @@||amazon.co.jp/gp/$document
-@@||linksynergy.com,linkshare.ne.jp^$document
+@@||linksynergy.com,linkshare.ne.jp^
 @@||member.accesstrade.net^$document
 @@||valuecommerce.ne.jp/portal/$third-party
 @@||sourcenext.com^$document
@@ -21,12 +21,10 @@
 @@||pex.jp/search?Keywords=^$document
 @@||www.tumblr.com/edit/|$document
 @@|http://www.chobirich.com/earn/|$document
-@@|http://cli.linksynergy.com/cli/publisher/home.php|$document
+@@|http://cli.linksynergy.com/cli/publisher/|$document
 @@||rakuten.ne.jp^$document
 @@||ad.poncan.jp^$document
 @@||stream.ne.jp^$document
-@@||s0.1kibaku.jp^$document
-@@||s16.1kibaku.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -199,6 +197,7 @@ websearch.rakuten.co.jp###ad-ichiba
 ||i.vcimg.jp/d/dpimg*
 ||rd.yahoo.co.jp/shopping/pc/top/promoVisual/imp/banner/*
 ||i.yimg.jp/images/auct/salespromotion/*450*50*
+||eyesgrandprix.yahoo.co.jp^
 yahoo.co.jp###^ad
 yahoo.co.jp##.yjSt.adTyumoku.marB10
 yahoo.co.jp##a[href^="http://rd.ane.yahoo.co.jp/"]
@@ -724,6 +723,7 @@ gendama.jp###request_answer_box
 gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
 gendama.jp##a[href*="id=146143"]
 gendama.jp##.ticker
+fishing.gendama.jp##.new_app
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
 ||shop.ecnavi.jp.eimg.jp/shop_bc/img/logo_120x60/*
@@ -1539,6 +1539,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||jyoshige.livedoor.biz^
 ||labunix.hateblo.jp^
 ||richdad-lab.com^
+||mesar-jazz.com^
 ||c-lab.link^
 ||my-labo.jp^
 ||rakuten.co.jp^*mylab*
@@ -1827,6 +1828,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||majikichi.com^
 ||nakamichisokuho.com^
 ||livedoor.jp^*qmanews*
+||nonbe.info^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
@@ -1884,6 +1886,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||kensho3.jp^
 ||wo-market.jp^
 ||irie-communications.jp^
+||japancontrol.blogspot.jp^
+||japancontrol.blogspot.com^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
