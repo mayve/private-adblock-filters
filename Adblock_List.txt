@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: o4Hjs5/A2mUAbYd/Ma9Ypg
+! Checksum: eRz1ycOvKcZaQ+JGZN8vVA
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -184,6 +184,7 @@ isbingo.www.infoseek.co.jp##.winnerBoard
 woman.infoseek.co.jp###Container
 websearch.rakuten.co.jp###ad-ichiba
 ! [Yahoo!]
+||listing.yahoo.co.jp^
 ||im.gmo.ov.yahoo.co.jp^
 ||yimg.jp^*hmv*
 ||ard.yahoo.co.jp^
@@ -770,6 +771,8 @@ search.ecnavi.jp##.Attribute_keyword
 ##A[href*="http://ecnavi.jp/bid/?BID=323929"]
 research-panel.jp##.author
 shufoo.net###gn_lead > P
+pex.jp###ad_top > DL
+ecnavi.jp##.sponsored_search.result A
 ! [Potora]
 ||potora.jp/js/noticegoods.js
 ||potora.jp/common/js/shopping_global.js
@@ -1485,6 +1488,10 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||kaden.watch.impress.co.jp^*/fujilabo/*
 ||food-sommelier.jp^*trendlabs*
 ||food-sommelier.jp^
+||selmedi.jp^
+||morisatoumi.jp^
+||naturelab.jp^
+||naturelab.net^
 ||ameblo.jp^*sbooklab*
 ||ameba.jp^*sbooklab*
 ||kaolabo.com^
@@ -1557,6 +1564,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||barrier-free-jp.com^
 ||ameba.jp^*colabo-yumeno*
 ||ameblo.jp^*colabo-yumeno*
+||tetoteonahama.com^
 ||chocolabo.or.jp^
 ||chocolabo.com^
 ||chocolabo-test.stores.jp^
