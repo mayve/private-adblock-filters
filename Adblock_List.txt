@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: eRz1ycOvKcZaQ+JGZN8vVA
+! Checksum: CKzDxy8J0EAnw1VlYf51Mg
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -93,7 +93,6 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
-monow.jp##.search_section > UL
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -303,6 +302,8 @@ biglobe.ne.jp###cp
 biglobe.ne.jp###grav
 auth.kabegami.biglobe.ne.jp##DIV[style="margin: 20px 0pt; width: 710px;"]
 biglobe.ne.jp###twipple.cf
+biglobe.ne.jp##.prom.event
+biglobe.ne.jp##.prom
 ! [Tumblr]
 |http://mousou
 ! [fc2]
@@ -646,6 +647,7 @@ fruitmail.net###searchBlock .keywords
 tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
 tremii.excite.co.jp##.lh120 A[href^="http://www.excite.co.jp/relocate/co=jp/xsr/relatedkeywords_east/tremii/combined/"]
 tremii.excite.co.jp##DIV[style="float:right;margin:1em 0 1em 0;width:180px;"]
+tremii.com###kakushipoint02 > A > IMG
 ! [NetMile]
 ||netmile.co.jp/sp/game/common/images/*_main_img.png
 ||netmile.co.jp/sp/game/common/images/*_game_img.png
@@ -725,6 +727,7 @@ gendama.jp##DIV > A[href^="http://www.realworld.jp/crowd/"]
 gendama.jp##a[href*="id=146143"]
 gendama.jp##.ticker
 fishing.gendama.jp##.new_app
+monow.jp##.search_section > UL
 ! [ECNavi]
 ||shop.ecnavi.jp.eimg.jp/common/ajax/shop_history/js/*
 ||shop.ecnavi.jp.eimg.jp/shop_bc/img/logo_120x60/*
@@ -1719,6 +1722,11 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||jig.jp^
 ||asahibeer.co.jp^
 ||radiation-japan.info^
+||epinard.jp^
+||naqua.co.jp^
+||asnyaro.blog129.fc2.com^
+||sow.blog.jp^
+||netgeek.biz^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
