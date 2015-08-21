@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: CKzDxy8J0EAnw1VlYf51Mg
+! Checksum: JT3EwiSjdbVvFfNicu3MTw
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -542,6 +542,7 @@ gamefactory.jp###footer-ad-container
 pointgame.infoq.jp###main_head_ssp
 ad-link.jp##[href*="pid=1000006534"]
 ||poncan.jp/images/banners/*kousoplacenta*
+ib-game.jp###adOverlay
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -647,6 +648,8 @@ fruitmail.net###searchBlock .keywords
 tremii.com##LI > A[href^="http://tremii.excite.co.jp/search.gw?search="]
 tremii.excite.co.jp##.lh120 A[href^="http://www.excite.co.jp/relocate/co=jp/xsr/relatedkeywords_east/tremii/combined/"]
 tremii.excite.co.jp##DIV[style="float:right;margin:1em 0 1em 0;width:180px;"]
+tremii.com##.pointmainbox1 > UL > LI > A > IMG
+tremii.com##.pointmainbox2 > UL > LI > A > IMG
 tremii.com###kakushipoint02 > A > IMG
 ! [NetMile]
 ||netmile.co.jp/sp/game/common/images/*_main_img.png
