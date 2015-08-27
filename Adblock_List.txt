@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: JT3EwiSjdbVvFfNicu3MTw
+! Checksum: Xp9Wut3jJyLPdI6uKg0o5Q
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -25,6 +25,7 @@
 @@||rakuten.ne.jp^$document
 @@||ad.poncan.jp^$document
 @@||stream.ne.jp^$document
+@@||radionetplus.ru^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -48,7 +49,6 @@
 ||im.ov.yahoo.co.jp/js_flat/*
 ||media.gssp.asia^
 ||banner.dspcdn.com^
-||ads.nicovideo.jp/assets/js/*
 ! [要素非表示ルール]/elemhide
 ###^adsense
 ###^adv
@@ -182,6 +182,11 @@ infoseek.co.jp##.setList
 isbingo.www.infoseek.co.jp##.winnerBoard
 woman.infoseek.co.jp###Container
 websearch.rakuten.co.jp###ad-ichiba
+chobirich.com##.total_news
+rakuten.co.jp##A[href*="rmagazine"]
+||ashiato.rakuten.co.jp^
+|rakuten-static.com/*ashiato*
+||rakuten-static.com/*reco_lightbox*
 ! [Yahoo!]
 ||listing.yahoo.co.jp^
 ||im.gmo.ov.yahoo.co.jp^
@@ -475,6 +480,7 @@ dic.nicovideo.jp###banner-top
 dic.nicovideo.jp###flogbox
 secure.nicovideo.jp##.adWrap
 dic.nicovideo.jp###twitter-widget-2
+||ads.nicovideo.jp/assets/js/*
 ! [gree]
 gree.jp###celeb
 gree.jp###game-lineup
@@ -501,7 +507,9 @@ cue-monitor.jp###localNav
 ##A[href*="cue-monitor.jp/recruit"]
 ! [id]
 research.rakuten.co.jp##.monitorNav > P > STRONG
+rakuten.co.jp##.mr-name
 rakuten.co.jp##A[href^="https://rd.rakuten.co.jp/s/?R2=https%3A%2F%2Fmy.rakuten.co.jp%2F%3Fl-id%3Dmyrakuten"]
+websearch.rakuten.co.jp##.account > P > A > SPAN:first-child
 websearch.rakuten.co.jp##.account > [href="#"]
 rakuten.co.jp##[href="http://my.travel.rakuten.co.jp/mytravel/"] > B
 monitor.macromill.com##.messageTxt
@@ -1560,6 +1568,12 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||store.ponparemall.com^*mylab*
 ||groupon.jp^*cid/14767*
 ||dena-ec.com^*user/19707963*
+||smalabo.com^
+||facebook.com^*smalabocom*
+||facebook.com^*SmartLabo*
+||e-marty.co.jp^*smartlabo*
+||gpoint.co.jp^*124665*
+||t-gaia.co.jp^
 ||prhythm.co.jp^
 ||prism-hk.jp^
 ||utlab.jp^
@@ -1730,6 +1744,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||asnyaro.blog129.fc2.com^
 ||sow.blog.jp^
 ||netgeek.biz^
+||yukawanet.com^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
@@ -1741,10 +1756,12 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||hitorigoto-kokoro.blogspot.jp^
 ||hitorigoto-kokoro.blogspot.com^
 ||kt-yh6494.blog.so-net.ne.jp^
+||yh649490005.xsrv.jp^
 ||yomei3archives.blog.fc2.com^
 ||news-us.jp^
 ||takarin7.seesaa.net^
 ||rabitsokuhou.2chblog.jp^
+||blog.livedoor.jp/yomei3database^
 ##[title*="ダンボー"]
 ##a[href*="%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC"]
 ##a[href*="%e3%83%80%e3%83%b3%e3%83%9c%e3%83%bc"]
