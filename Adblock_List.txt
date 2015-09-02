@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: Xp9Wut3jJyLPdI6uKg0o5Q
+! Checksum: hFdtp7PysSSTicoA23gnyA
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -93,6 +93,8 @@ myspace.com##.labeled_ad
 kr2.kowa.co.jp##.box.photo
 kr2.kowa.co.jp##.box.pickup
 panasonic.jp##IMG[width="963"][height="342"]
+mine-g.jp##IMG[src*="http://mine-g.jp/img/pc/od/*"]
+mine-g.jp##IMG[src*="http://mine-g.jp/img/pc/cyber/mineTv*"]
 ! [Google]
 ||google-analytics.com^
 ||googlesyndication.com^
@@ -1576,6 +1578,18 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||t-gaia.co.jp^
 ||prhythm.co.jp^
 ||prism-hk.jp^
+||pinterest-lab.com^
+||pinterest-guide.com^
+||pinterest-board.net^
+||facebook.com^*pinterestlab^
+||facebook.com^*pinterestlab2^
+||facebook.com^*sonochan0827*
+||linkedin.com^*gardenpicture*
+||google.com^*sonoekinoshita*
+||sublaw.jp^
+||facebook.com^*sabulabo*
+||ameblo.jp^*ublaw}
+||saito-sl.com^
 ||utlab.jp^
 ||katariba.net^
 ||katariba.or.jp^
