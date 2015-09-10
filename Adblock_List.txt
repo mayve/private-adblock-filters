@@ -1,19 +1,20 @@
 [Adblock Plus 2.0]
-! Checksum: hFdtp7PysSSTicoA23gnyA
+! Checksum: R+8DlBkslJo+gOXGwNeT0Q
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
 @@||amazon.co.jp/gp/$document
-@@||linksynergy.com,linkshare.ne.jp^
+@@||member.amazonet.com^$document
+@@||linksynergy.com,linkshare.ne.jp^$document
+@@||cli.linksynergy.com/cli/publisher/|$document
 @@||member.accesstrade.net^$document
 @@||valuecommerce.ne.jp/portal/$third-party
+@@||stream.ne.jp^$document
 @@||sourcenext.com^$document
 @@||blog.shinobi.jp^$document
 @@||losslab.blogspot.com,losslab.blogspot.jp^$document
-@@||member.amazonet.com^$document
 @@||potora.jp/?nv=member_game&?$document
 @@|http://img.gendama.jp/banner/bt_day.gif
-@@||crowd-app.realworld.jp^$document
 @@||monitorpage.mc-netsurvey.com^$document
 @@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
 @@|http://ecnavi.jp/m/game/lottery/garapon/|$document
@@ -21,11 +22,7 @@
 @@||pex.jp/search?Keywords=^$document
 @@||www.tumblr.com/edit/|$document
 @@|http://www.chobirich.com/earn/|$document
-@@|http://cli.linksynergy.com/cli/publisher/|$document
-@@||rakuten.ne.jp^$document
 @@||ad.poncan.jp^$document
-@@||stream.ne.jp^$document
-@@||radionetplus.ru^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -196,9 +193,9 @@ rakuten.co.jp##A[href*="rmagazine"]
 ||ard.yahoo.co.jp^
 ||rd.ane.yahoo.co.jp^
 ||yimg.jp^*.swf|
-||ai.yimg.jp/bdv/*.swf
-||yimg.jp/bdv/yahoo/*
-||yimg.jp/images/security/pf/yjsecure.js
+||yimg.jp^*bdv*ad*
+||ard.yahoo.co.jp^
+||s.yimg.jp^*listing*yad*
 ||yimg.jp/i/jp/blog/p3/images/folder/boxset/394/*
 ||yimg.jp/i/jp/blog/p3/images/folder/skin/394/*
 ||i.vcimg.jp/d/dpimg*
@@ -553,6 +550,7 @@ pointgame.infoq.jp###main_head_ssp
 ad-link.jp##[href*="pid=1000006534"]
 ||poncan.jp/images/banners/*kousoplacenta*
 ib-game.jp###adOverlay
+ecnavi.gamefactory.jp##DIV > .box-300:first-child
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -1588,7 +1586,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||google.com^*sonoekinoshita*
 ||sublaw.jp^
 ||facebook.com^*sabulabo*
-||ameblo.jp^*ublaw}
+||ameblo.jp^*ublaw*
+||mens-fashion-labo.com^
 ||saito-sl.com^
 ||utlab.jp^
 ||katariba.net^
