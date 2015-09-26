@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: R+8DlBkslJo+gOXGwNeT0Q
+! Checksum: hV56UAv8z2qtEHf8PdQkfw
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -9,20 +9,23 @@
 @@||cli.linksynergy.com/cli/publisher/|$document
 @@||member.accesstrade.net^$document
 @@||valuecommerce.ne.jp/portal/$third-party
-@@||stream.ne.jp^$document
+@@||amazon.co.jp^$document
+@@||stream.ne.jp
+@@||stream.co.jp
 @@||sourcenext.com^$document
 @@||blog.shinobi.jp^$document
-@@||losslab.blogspot.com,losslab.blogspot.jp^$document
-@@||potora.jp/?nv=member_game&?$document
-@@|http://img.gendama.jp/banner/bt_day.gif
-@@||monitorpage.mc-netsurvey.com^$document
-@@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
-@@|http://ecnavi.jp/m/game/lottery/garapon/|$document
-@@||amazon.co.jp^$document
-@@||pex.jp/search?Keywords=^$document
 @@||www.tumblr.com/edit/|$document
-@@|http://www.chobirich.com/earn/|$document
+@@||losslab.blogspot.com,losslab.blogspot.jp^$document
+@@||monitorpage.mc-netsurvey.com^$document
 @@||ad.poncan.jp^$document
+@@|http://www.chobirich.com/earn/|$document
+@@|http://www.gpoint.co.jp/gpointkuji/|$document
+@@|http://www.gpoint.co.jp/scripts/aima.jsp?$document
+@@|ecnavi.jp/m/game/lottery/garapon/|$document
+@@||pex.jp/search?Keywords=^$document
+@@|http://img.gendama.jp/banner/bt_day.gif
+@@||potora.jp/?nv=member_game&?$document
+@@||kakome.gendama.jp^$document
 ! [広告ブロックルール]/blocking
 ||benesse.ne.jp^
 ||point.jp^
@@ -508,6 +511,8 @@ cue-monitor.jp###localNav
 research.rakuten.co.jp##.monitorNav > P > STRONG
 rakuten.co.jp##.mr-name
 rakuten.co.jp##A[href^="https://rd.rakuten.co.jp/s/?R2=https%3A%2F%2Fmy.rakuten.co.jp%2F%3Fl-id%3Dmyrakuten"]
+infoseek.co.jp###account > SPAN
+rakuten.co.jp##.user-name
 websearch.rakuten.co.jp##.account > P > A > SPAN:first-child
 websearch.rakuten.co.jp##.account > [href="#"]
 rakuten.co.jp##[href="http://my.travel.rakuten.co.jp/mytravel/"] > B
@@ -550,7 +555,7 @@ pointgame.infoq.jp###main_head_ssp
 ad-link.jp##[href*="pid=1000006534"]
 ||poncan.jp/images/banners/*kousoplacenta*
 ib-game.jp###adOverlay
-ecnavi.gamefactory.jp##DIV > .box-300:first-child
+pointservice.com###overlay
 ! [AF_Points]
 ~ameblo.jp##120*60*.jpg|
 ~ameblo.jp##120*60*.gif|
@@ -1334,8 +1339,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||zolpidem.pw*
 ||zombiestat.com^
 ! [ClutSouka-Korean_Pakuri_laboratory_since2009]
-##[alt*="ラボ"]
-##[title*="ラボ"]
+~chobirich.com,~chobirich.us,~min-ken.com.com##[alt*="ラボ"]
+~chobirich.com,~chobirich.us,~min-ken.com.com##[title*="ラボ"]
 ||tabi-labo.com^
 ||gunze-store.jp^
 ||3838.com^
