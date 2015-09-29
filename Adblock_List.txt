@@ -512,9 +512,11 @@ research.rakuten.co.jp##.monitorNav > P > STRONG
 rakuten.co.jp##.mr-name
 rakuten.co.jp##A[href^="https://rd.rakuten.co.jp/s/?R2=https%3A%2F%2Fmy.rakuten.co.jp%2F%3Fl-id%3Dmyrakuten"]
 infoseek.co.jp###account > SPAN
+www.infoseek.co.jp###account > span
 rakuten.co.jp##.user-name
 websearch.rakuten.co.jp##.account > P > A > SPAN:first-child
 websearch.rakuten.co.jp##.account > [href="#"]
+esearch.rakuten.co.jp##.user-name
 rakuten.co.jp##[href="http://my.travel.rakuten.co.jp/mytravel/"] > B
 monitor.macromill.com##.messageTxt
 research-panel.jp##.name
