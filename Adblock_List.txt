@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-! Checksum: hV56UAv8z2qtEHf8PdQkfw
 ! [例外ルール]/whitelist
 @@||aguse.jp^$document
 @@||topsy.com^
@@ -1716,6 +1715,13 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||zyoseiikumoulobo.jp^
 ||labo.kani.co.jp^
 ||bustuplabo.com^
+||labs.yaneu.com^
+||yaneu.com^
+||redbox.ne.jp^
+||dango-itimi.com^
+||labo.i-section.net^
+||pclabo2.seesaa.net^
+||subterraneans.jp^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
