@@ -1827,6 +1827,7 @@ gesoten.com##[href*="profile/detail/94825"]
 pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||mousouteki.blog53.fc2.com^
 ||mousouteki.blog.fc2.com^
+||mera.red^
 ||kababooks.com^
 ##[href*="kababooks"]
 ##[src*="kababooks"]
