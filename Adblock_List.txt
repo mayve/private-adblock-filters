@@ -1358,6 +1358,8 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||j-shopping.jp^
 ||tvラジオショッピング.jp^
 ||xn--tv-6g4aya8ae3fwgzgqa0j.jp^
+||premium.okwave.jp^*kampo*
+||premium.okwave.jp~
 ||ihopehouse.jp
 ||future-labo.com^
 ||po-holdings.co.jp^
