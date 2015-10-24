@@ -181,6 +181,7 @@ infoseek.co.jp###voteBlock
 infoseek.co.jp###celebrityNews
 infoseek.co.jp##.setList
 isbingo.www.infoseek.co.jp##.winnerBoard
+isbingo.www.infoseek.co.jp###servheader > form > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > .regi > small
 woman.infoseek.co.jp###Container
 websearch.rakuten.co.jp###ad-ichiba
 chobirich.com##.total_news
@@ -810,8 +811,10 @@ ecnavi.jp##.sponsored_search.result A
 ||potora.jp/images/shopping/swfimg/*
 ||potora.jp/images/saving/*_icon.gif
 ||potora.jp/images/top/camp/*
-||ct.potora.jp/images/game/imag_*
-||ct.potora.jp/images/game/img_*
+||potora.jp/images/banner/*980x300.jpg
+||potora.jp/images/top/img/slider*
+||potora.jp/images/game/imag_*
+||potora.jp/images/game/img_*
 ||potora.jp/images/game/link_bingo.jpg
 ||potora.jp/images/game/link_treasure.gif
 ||potora.jp/images/game/link_aima.jpg
@@ -829,6 +832,11 @@ ecnavi.jp##.sponsored_search.result A
 ||ct.potora.jp/images/top/img/cara*
 ||ct.potora.jp/images/top/img/sidettl_every*
 |http://ct.potora.jp/psp/images/*
+||ct.potora.jp/images/banner/gameSP_main*
+||ct.potora.jp/images/mobile/top/appdl_sp*
+||ct.potora.jp/images/mobile/top/*640*200*
+||ct.potora.jp/images/banner/*main*
+||ct.potora.jp/images/top/img*slider*
 potora.jp###sec_buzzoo
 potora.jp###horoscope
 potora.jp###m-mypage-box-type
