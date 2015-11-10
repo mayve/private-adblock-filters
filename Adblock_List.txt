@@ -773,6 +773,7 @@ ecnavi.jp###banner_item
 ecnavi.jp###my_shop
 ecnavi.jp###staff_blog
 ecnavi.jp###sale_info
+ecnavi.jp###pointup_item
 ecnavi.jp##IMG[src^="http://img.adplan-ds.com/"]
 ecnavi.jp##IMG[src^="http://img.accesstrade.net/"]
 ecnavi.jp##IMG[src^="http://reward.gree.net/"]
@@ -1902,6 +1903,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||nakamichisokuho.com^
 ||livedoor.jp^*qmanews*
 ||nonbe.info^
+||sabarisalovelove.wix.com^
+||facebook.com^*%E3%81%AF%E3%81%99%E3%81%BF%E3%81%A8%E3%81%97%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C*
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
