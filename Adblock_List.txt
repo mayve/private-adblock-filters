@@ -1930,6 +1930,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||instagram.com^*maya_m0901*
 ||vithmicpro.co.jp^
 ||digital-cat.com^
+||kaelab.ranadesign.com^
+||ranadesign.com^
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 ||gendai.ismedia.jp^
@@ -1964,6 +1966,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||irie-communications.jp^
 ||japancontrol.blogspot.jp^
 ||japancontrol.blogspot.com^
+||penlabo.net^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
