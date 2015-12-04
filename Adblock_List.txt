@@ -1530,6 +1530,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||nishimotz.com^
 ||washulabo.gekkeikan.co.jp^
 ||gekkeikan.co.jp^
+||arutsu.co.jp^
+yahoo.co.jp##a[href*="hl1"]
+yahoo.co.jp##a[href*="heartdrop"]
 ||candy-labo.com^
 ||top-athlete.jp^
 ||rakuten.co.jp^*alpron*
@@ -1733,6 +1736,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||labo.i-section.net^
 ||pclabo2.seesaa.net^
 ||subterraneans.jp^
+||win10labo.info^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -1784,6 +1788,8 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||yukawanet.com^
 |http://img.gpoint.co.jp/www/gpark/*nopara*
 ||user.gesoten.com/img/vg/vl_item03*
+||creatures.co.jp^
+||itunes.apple.com^*adanza*
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
