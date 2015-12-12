@@ -1411,6 +1411,9 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||n-labo.jp^
 ||nitta-biolab.co.jp^
 ||kinokolabo.jp^
+||scalabo.com^
+||shampoo-labo.com^
+||orange-p.co.jp^
 ||d-laboweb.jp^
 ||tabi-labo.com^
 ||pressa.jp^
@@ -1533,6 +1536,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||arutsu.co.jp^
 yahoo.co.jp##a[href*="hl1"]
 yahoo.co.jp##a[href*="heartdrop"]
+yahoo.co.jp##a[href*="aas"]
 ||candy-labo.com^
 ||top-athlete.jp^
 ||rakuten.co.jp^*alpron*
@@ -1609,6 +1613,8 @@ yahoo.co.jp##a[href*="heartdrop"]
 ||ameblo.jp^*ublaw*
 ||mens-fashion-labo.com^
 ||saito-sl.com^
+||tatamilab.jp^
+||chiroru.hatenablog.com^
 ||utlab.jp^
 ||katariba.net^
 ||katariba.or.jp^
@@ -1790,6 +1796,9 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||user.gesoten.com/img/vg/vl_item03*
 ||creatures.co.jp^
 ||itunes.apple.com^*adanza*
+||facebook.com^*%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC*
+||facebook.com^*アルパカ-ファミリー*
+||31767069.gatyu.jp^
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
@@ -1801,7 +1810,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||kt-yh6494.blog.so-net.ne.jp^
 ||yh649490005.xsrv.jp^
 ||yomei3archives.blog.fc2.com^
-||news-us.jp^
+#||news-us.jp^
 ||takarin7.seesaa.net^
 ||rabitsokuhou.2chblog.jp^
 ||blog.livedoor.jp/yomei3database^
@@ -1973,6 +1982,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||japancontrol.blogspot.jp^
 ||japancontrol.blogspot.com^
 ||penlabo.net^
+||cbwc.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
