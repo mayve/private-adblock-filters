@@ -1631,6 +1631,14 @@ ponparemall.com##a[href*="fashion-labo"]
 ||announce-lab.jp^
 ||keichuncafe.livedoor.biz^
 ||facebook.com^*100007317162694*
+yahoo.co.jp##a[href*="spacelab"]
+geocities.jp##a[href*="spacelab"]
+rakuten.co.jp##a[href*="spacelab"]
+amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
+||facebook.com^*buichi.kumamaru*
+||sunnystep.co.jp^
+||google.com^*115875597092238291038*
+||yahoo.co.jp##a[href*="sywwk240"]
 ||utlab.jp^
 ||katariba.net^
 ||katariba.or.jp^
@@ -1759,6 +1767,16 @@ ponparemall.com##a[href*="fashion-labo"]
 ||pclabo2.seesaa.net^
 ||subterraneans.jp^
 ||win10labo.info^
+||thingslabo.com^
+||retouch-weblab.com^
+||gpol.co.jp^
+||entacl.info^
+||tabelog.com^*shizuoka*22019463*
+||yahoo.co.jp^*g-fRIpau9XPIo*
+||localplace.jp^*t100074865*
+||hitosara.com^*tlog_22019463*
+||retty.me^*100000033205*
+||gnavi.co.jp^*gf3x67230000*
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
