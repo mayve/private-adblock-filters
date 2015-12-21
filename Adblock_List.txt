@@ -1833,6 +1833,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||facebook.com^*%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC*
 ||facebook.com^*アルパカ-ファミリー*
 ||31767069.gatyu.jp^
+||nahanaha.blog.so-net.ne.jp^
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
