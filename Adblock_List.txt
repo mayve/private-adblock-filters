@@ -1759,6 +1759,7 @@ ponparemall.com##a[href*="fashion-labo"]
 ||pclabo2.seesaa.net^
 ||subterraneans.jp^
 ||win10labo.info^
+||latlonglab.yahoo.co.jp*^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
