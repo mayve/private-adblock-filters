@@ -1631,6 +1631,19 @@ ponparemall.com##a[href*="fashion-labo"]
 ||announce-lab.jp^
 ||keichuncafe.livedoor.biz^
 ||facebook.com^*100007317162694*
+yahoo.co.jp##a[href*="spacelab"]
+geocities.jp##a[href*="spacelab"]
+rakuten.co.jp##a[href*="spacelab"]
+amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
+||facebook.com^*buichi.kumamaru*
+||sunnystep.co.jp^
+||google.com^*115875597092238291038*
+||yahoo.co.jp##a[href*="sywwk240"]
+||noobslab.com^
+||incubationkumamoto.com^
+||senzu.info^
+||sapple.biz^
+||bubblestar.jp^
 ||utlab.jp^
 ||katariba.net^
 ||katariba.or.jp^
@@ -1759,7 +1772,18 @@ ponparemall.com##a[href*="fashion-labo"]
 ||pclabo2.seesaa.net^
 ||subterraneans.jp^
 ||win10labo.info^
-||latlonglab.yahoo.co.jp*^
+||thingslabo.com^
+||retouch-weblab.com^
+||gpol.co.jp^
+||entacl.info^
+||tabelog.com^*shizuoka*22019463*
+||yahoo.co.jp^*g-fRIpau9XPIo*
+||localplace.jp^*t100074865*
+||hitosara.com^*tlog_22019463*
+||retty.me^*100000033205*
+||gnavi.co.jp^*gf3x67230000*
+||latlonglab.yahoo.co.jp^
+||labo-ex.com^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -1816,6 +1840,8 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||facebook.com^*%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC*
 ||facebook.com^*アルパカ-ファミリー*
 ||31767069.gatyu.jp^
+||nahanaha.blog.so-net.ne.jp^
+||audioswit.ch^
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
@@ -1831,6 +1857,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||takarin7.seesaa.net^
 ||rabitsokuhou.2chblog.jp^
 ||blog.livedoor.jp/yomei3database^
+||hinomoto.jpn.org^
 ##[title*="ダンボー"]
 ##a[href*="%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC"]
 ##a[href*="%e3%83%80%e3%83%b3%e3%83%9c%e3%83%bc"]
@@ -1934,9 +1961,13 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||majikichi.com^
 ||nakamichisokuho.com^
 ||livedoor.jp^*qmanews*
+||jin115.com^
+||apanet.info^
+||onosakaemiri.blog.jp^
 ||nonbe.info^
 ||sabarisalovelove.wix.com^
 ||facebook.com^*%E3%81%AF%E3%81%99%E3%81%BF%E3%81%A8%E3%81%97%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C*
+||awarenessxx.tumblr.com^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
