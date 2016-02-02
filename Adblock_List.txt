@@ -1640,6 +1640,8 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||google.com^*115875597092238291038*
 ||yahoo.co.jp##a[href*="sywwk240"]
 ||noobslab.com^
+||bp-labo.com^
+||chocolabo.com^
 ||incubationkumamoto.com^
 ||senzu.info^
 ||sapple.biz^
@@ -1962,12 +1964,14 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||nakamichisokuho.com^
 ||livedoor.jp^*qmanews*
 ||jin115.com^
-||apanet.info^
+||zapanet.info^
+||blog.esuteru.com^
 ||onosakaemiri.blog.jp^
 ||nonbe.info^
 ||sabarisalovelove.wix.com^
 ||facebook.com^*%E3%81%AF%E3%81%99%E3%81%BF%E3%81%A8%E3%81%97%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C*
 ||awarenessxx.tumblr.com^
+||payoku.requiem.jp^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
@@ -1997,7 +2001,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||ranadesign.com^
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
-||gendai.ismedia.jp^
+#||gendai.ismedia.jp^
 ||kai-you.net^
 ||kai-you.co.jp^
 ||1000faith.com^
