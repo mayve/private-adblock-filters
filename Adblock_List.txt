@@ -1360,6 +1360,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ##[src*="nlab"]
 ##[alt*="nlab"]
 ##[title*="nlab"]
+||innolab.jp^
 ||iwatani-i-collect.com^
 ||imcjpn.co.jp^
 ||ishop.tbs.co.jp^
@@ -1855,11 +1856,13 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||kt-yh6494.blog.so-net.ne.jp^
 ||yh649490005.xsrv.jp^
 ||yomei3archives.blog.fc2.com^
+||deliciousicecoffee.blog28.fc2.com^
 #||news-us.jp^
 ||takarin7.seesaa.net^
 ||rabitsokuhou.2chblog.jp^
 ||blog.livedoor.jp/yomei3database^
 ||hinomoto.jpn.org^
+||nightthemoon.blog.so-net.ne.jp^
 ##[title*="ダンボー"]
 ##a[href*="%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC"]
 ##a[href*="%e3%83%80%e3%83%b3%e3%83%9c%e3%83%bc"]
@@ -1953,8 +1956,13 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||apned.com^
 ||mousou.apned.com^
 ||youtube.com^*ripmybelovedcats*
+||hitogoroshi-k.blogspot.com^
+||toshiotogorou.blogspot.jp^
+||doctorar.wordpress.com^
+||tuuna.web.fc2.com^
 ||slimyslime.blog.fc2.com^
 ||kagaishay.blog.fc2.com^
+||mitoc.blog46.fc2.com^
 ||qlife.jp^
 ||richardkoshimizu.at.webry.info^
 ||moeruasia.net^
@@ -1999,6 +2007,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||digital-cat.com^
 ||kaelab.ranadesign.com^
 ||ranadesign.com^
+||livedoor.jp^*mayahime0522*
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 #||gendai.ismedia.jp^
@@ -2035,6 +2044,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||japancontrol.blogspot.com^
 ||penlabo.net^
 ||cbwc.jp^
+||bosailabo.jp^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
