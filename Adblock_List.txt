@@ -1371,6 +1371,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||premium.okwave.jp^*kampo*
 ||premium.okwave.jp^
 ||custard-lab.com
+||kitakyushu-performingartscenter.or.jp^
 ||ihopehouse.jp
 ||future-labo.com^
 ||po-holdings.co.jp^
@@ -1413,6 +1414,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||n-labo.jp^
 ||nitta-biolab.co.jp^
 ||kinokolabo.jp^
+||jlab.jp^
 ||scalabo.com^
 ||shampoo-labo.com^
 ||orange-p.co.jp^
@@ -1587,6 +1589,7 @@ yahoo.co.jp##a[href*="aas"]
 ||labunix.hateblo.jp^
 ||richdad-lab.com^
 ||mesar-jazz.com^
+||airlabo.jp^
 ||c-lab.link^
 ||my-labo.jp^
 ||rakuten.co.jp^*mylab*
@@ -1788,6 +1791,15 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||gnavi.co.jp^*gf3x67230000*
 ||latlonglab.yahoo.co.jp^
 ||labo-ex.com^
+||marketinglabo.jp^
+||infact1.co.jp^
+||socialmedia-academy.jp^
+||youtube.com^*UCWKohPEgtSRj3mcAcnLo5lg*
+||ex-ma.com^
+||printex1.jp^
+||printbag.co.jp^
+||nioi-lab.com^
+||surprise-labo.com^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -1856,6 +1868,8 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||ameblo.jp^*doronpa01*
 ||hitorigoto-kokoro.blogspot.jp^
 ||hitorigoto-kokoro.blogspot.com^
+||hitorigoto-kokoro.blogspot.jp^
+||kt-yh6494.blog.so-net.ne.jp^
 ||kt-yh6494.blog.so-net.ne.jp^
 ||yh649490005.xsrv.jp^
 ||yomei3archives.blog.fc2.com^
@@ -1908,6 +1922,10 @@ gesoten.com##[href*="profile/detail/94825"]
 pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||mousouteki.blog53.fc2.com^
 ||mousouteki.blog.fc2.com^
+##a[href*="togetter.com/li/984240"]
+togetter.com##a[href*="/984240"]
+togetter.com##a[href*="chivi_105"]
+twitter.com##a[href*="chivi_105"]
 ||mera.red^
 ||kababooks.com^
 ##[href*="kababooks"]
@@ -1972,6 +1990,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||toshiotogorou.blogspot.jp^
 ||doctorar.wordpress.com^
 ||tuuna.web.fc2.com^
+||b-m-i.blog.so-net.ne.jp^
 ||slimyslime.blog.fc2.com^
 ||kagaishay.blog.fc2.com^
 ||mitoc.blog46.fc2.com^
@@ -2057,6 +2076,8 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ||penlabo.net^
 ||cbwc.jp^
 ||bosailabo.jp^
+||ureshino-lab.jp^
+||gekiyasu-lab.net^
 ! [Malware&Phishing(China)]
 ||square-enixx.cc^
 ||ccus.asia^
