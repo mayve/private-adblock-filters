@@ -1487,6 +1487,7 @@ questionbox.jp.msn.com##.ads_oyj_w.parent.chrome5.single1
 ||momolabo.net^
 ||touchlab.jp^
 ||wancolabo.com^
+||inulab.com^
 ||rohto.co.jp^
 ||meishoku.co.jp^
 ||imaginglabo.web.fc2.com^
@@ -1926,6 +1927,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 togetter.com##a[href*="/984240"]
 togetter.com##a[href*="chivi_105"]
 twitter.com##a[href*="chivi_105"]
+||yokota-kenichi.net^
 ||mera.red^
 ||kababooks.com^
 ##[href*="kababooks"]
@@ -2011,6 +2013,7 @@ twitter.com##a[href*="chivi_105"]
 ||facebook.com^*%E3%81%AF%E3%81%99%E3%81%BF%E3%81%A8%E3%81%97%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C*
 ||awarenessxx.tumblr.com^
 ||payoku.requiem.jp^
+||joliechat5.blog.fc2.com^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
@@ -2178,3 +2181,4 @@ twitter.com##a[href*="chivi_105"]
 ||hao222.com^
 ||hao123.apptizer.jp^
 ||apptizer.jp^
+||http.com^
