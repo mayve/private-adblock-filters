@@ -1801,6 +1801,10 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||printbag.co.jp^
 ||nioi-lab.com^
 ||surprise-labo.com^
+||celtislab.net^
+||bibilab.jp^
+||creditcard.zaitsu-labs.com^
+||topiclabo.net^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -1970,6 +1974,7 @@ twitter.com##a[href*="chivi_105"]
 ||karadano-recipe.com^
 ||join.biglobe.ne.jp^
 ||241241.jp^
+||56285.blog.jp^
 ! [ClutSoukagakkai-Korean_偽装・情報誘導・成りすまし偽被害者・パクラー持ち上げステマ系]
 ||h2s.roheisen.net^
 ||roheisen.net^
@@ -1981,6 +1986,7 @@ twitter.com##a[href*="chivi_105"]
 ||wiki.livedoor.jp^*watch_the_st*
 ||apned.com^
 ||mousou.apned.com^
+||answer.jp^
 ||youtube.com^*ripmybelovedcats*
 ||geocities.jp^*vlnfinale*
 ||myspace.com^*murakamitaro*
@@ -2007,6 +2013,7 @@ twitter.com##a[href*="chivi_105"]
 ||jin115.com^
 ||zapanet.info^
 ||blog.esuteru.com^
+||anonymous-post.com^
 ||onosakaemiri.blog.jp^
 ||nonbe.info^
 ||sabarisalovelove.wix.com^
