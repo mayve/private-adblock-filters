@@ -184,6 +184,7 @@ isbingo.www.infoseek.co.jp##.winnerBoard
 isbingo.www.infoseek.co.jp###servheader > form > table:nth-of-type(2) > tbody > tr:nth-of-type(2) > .regi > small
 woman.infoseek.co.jp###Container
 websearch.rakuten.co.jp###ad-ichiba
+websearch.rakuten.co.jp###trendAreaRight
 chobirich.com##.total_news
 rakuten.co.jp##A[href*="rmagazine"]
 ||ashiato.rakuten.co.jp^
@@ -645,6 +646,7 @@ campaign.up-current.co.jp##.ranking
 ||www.fruitmail.net/top_infoseek_news*
 fruitmail.net##.winnerVoice
 fruitmail.net##.fortune_top
+fruitmail.net###topRight > .fortune_top_v2
 fruitmail.net###infoseek
 fruitmail.net##.specialArea
 fruitmail.net##[id^="rectangle"] > IMG[width="300"][height="250"]
@@ -774,6 +776,8 @@ ecnavi.jp###my_shop
 ecnavi.jp###staff_blog
 ecnavi.jp###sale_info
 ecnavi.jp###pointup_item
+ecnavi.jp###toppage_mainichi_news
+ecnavi.jp###time_sale_new
 ecnavi.jp##IMG[src^="http://img.adplan-ds.com/"]
 ecnavi.jp##IMG[src^="http://img.accesstrade.net/"]
 ecnavi.jp##IMG[src^="http://reward.gree.net/"]
@@ -1805,9 +1809,14 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||bibilab.jp^
 ||creditcard.zaitsu-labs.com^
 ||topiclabo.net^
+||aojiru-lab.com^
+||onaka-labo.com^
+||nigawa.co.jp^
+||nigawa.info^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
+||*travex.jp/*/CT014701.htm*
 ||aleph-inc.co.jp^
 ||ecorinvillage.com^
 ||cocosola.jp^
@@ -1865,6 +1874,7 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||nahanaha.blog.so-net.ne.jp^
 ||audioswit.ch^
 ||elianamiyuki.tumblr.com^
+||hikol.tumblr.com^
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
