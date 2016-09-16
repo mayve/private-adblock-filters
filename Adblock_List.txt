@@ -1650,7 +1650,9 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||google.com^*115875597092238291038*
 ||yahoo.co.jp##a[href*="sywwk240"]
 ||noobslab.com^
+||otomelab.com^
 ||bp-labo.com^
+||truestylelab.com^
 ||chocolabo.com^
 ||incubationkumamoto.com^
 ||senzu.info^
@@ -1811,8 +1813,14 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||topiclabo.net^
 ||aojiru-lab.com^
 ||onaka-labo.com^
+||creditcard-zaitsu.com^
+||so-labo.com^
 ||nigawa.co.jp^
 ||nigawa.info^
+||miyearnzzlabo.com^
+||hotolab.net^
+||ec-growth-lab.com^
+||work-labo.hateblo.jp^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -1875,6 +1883,8 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 ||audioswit.ch^
 ||elianamiyuki.tumblr.com^
 ||hikol.tumblr.com^
+||himabuapp.tumblr.com^
+||himabu.com^
 ! [ClutSoukagakkai-Korean パクリ系 自演ステマ業者 ペニオク詐欺関東連合等犯罪系含]
 ||youtube.com^*nipponmamorouTV*
 ||youtube.com^*-Mo3OB0RGmo*
@@ -1892,12 +1902,18 @@ yahoo.co.jp##IMG[src^="http://shopping.c.yimg.jp/lib/hmv/"]
 #||news-us.jp^
 ||takarin7.seesaa.net^
 ||rabitsokuhou.2chblog.jp^
-||blog.livedoor.jp/yomei3database^
+||blog.livedoor.jp^*yomei3database^
 ||hinomoto.jpn.org^
 ||meron.vanillapafe.info^
 ||nightthemoon.blog.so-net.ne.jp^
 ||kazuyahkd.com^
 ||youtube.com^*kazuyahkd*
+||logmi.co.jp^
+||logmi.jp^
+||huffingtonpost.jp^*kawarazakisusumuhiroshi*
+||cylab.jp^
+||kawapara.tumblr.com^
+||flukelab.co.jp^
 ##[title*="ダンボー"]
 ##a[href*="%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC"]
 ##a[href*="%e3%83%80%e3%83%b3%e3%83%9c%e3%83%bc"]
@@ -1940,6 +1956,7 @@ pointtown.com##[href*="/poitto/ooo7UKC/"]
 ##a[href*="togetter.com/li/984240"]
 togetter.com##a[href*="/984240"]
 togetter.com##a[href*="chivi_105"]
+togetter.com##a[href*="/li/1022813"]
 twitter.com##a[href*="chivi_105"]
 ||yokota-kenichi.net^
 ||mera.red^
