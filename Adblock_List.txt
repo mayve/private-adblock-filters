@@ -2076,6 +2076,11 @@ twitter.com##a[href*="chivi_105"]
 ||kaelab.ranadesign.com^
 ||ranadesign.com^
 ||livedoor.jp^*mayahime0522*
+||youtube.com^*UCU0Wiy2l8R5SRLUXBv5tHOQ*
+##a[href*="/iX4oB2J9660"]
+##a[href*="/bBjqPRVnpg0"]
+##a[href*="/NfM_gxSmpvQ"]
+##a[href*="/a30zmC0TAyk"]
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 #||gendai.ismedia.jp^
