@@ -2067,6 +2067,9 @@ twitter.com##a[href*="chivi_105"]
 ||grj-m.jp^
 ||may-j.com^
 ||supalove.com^
+||d.hatena.ne.jp^*maya0408*
+||amazon.co.jp^*B00FGOLTUU/*
+||shop.comiczin.jp^*=4884*
 ||maayamiki.jimdo.com^
 ||ameblo.jp^*maya-miyagawa*
 ||ameba.jp^*maya-miyagawa*
@@ -2082,6 +2085,7 @@ twitter.com##a[href*="chivi_105"]
 ##a[href*="/NfM_gxSmpvQ"]
 ##a[href*="/a30zmC0TAyk"]
 ##a[href*="/yl01118GX2w"]
+##a[href*="/W9Muyoc_WXU"]
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 #||gendai.ismedia.jp^
