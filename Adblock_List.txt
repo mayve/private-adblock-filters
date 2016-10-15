@@ -1828,6 +1828,7 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||bluespot.jp^
 ||hanakotoba-labo.com^
 ||k-voicetraininglab.com^
+||it-trend.jp^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -2095,6 +2096,7 @@ twitter.com##a[href*="chivi_105"]
 ##a[href*="/W9Muyoc_WXU"]
 ##a[href*="/zWUEbFeVDew"]
 ##a[href*="/82ZJyQqm8Xo"]
+##a[href*="/Ps-YY-r1-vc"]
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 #||gendai.ismedia.jp^
