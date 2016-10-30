@@ -1829,6 +1829,8 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||hanakotoba-labo.com^
 ||k-voicetraininglab.com^
 ||it-trend.jp^
+||self.hatenablog.com^
+||writerzlab.com^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -2023,6 +2025,9 @@ twitter.com##a[href*="chivi_105"]
 ||mousou.apned.com^
 ||answer.jp^
 ||youtube.com^*ripmybelovedcats*
+||homepage3.nifty.com^*hirorin*
+||hirorin.otaden.jp^
+||kokorohaitsumo15sai.la.coocan.jp^
 ||geocities.jp^*vlnfinale*
 ||myspace.com^*murakamitaro*
 ||finalex2.web.fc2.com^
@@ -2056,6 +2061,7 @@ twitter.com##a[href*="chivi_105"]
 ||awarenessxx.tumblr.com^
 ||payoku.requiem.jp^
 ||joliechat5.blog.fc2.com^
+||dsn-gh.com^
 ! [ClutSouka-Korean_Pakuri_パクラー創価在日芸人]
 ||mayn.jp^
 ||ameblo.jp^*mayn-blog*
@@ -2097,6 +2103,8 @@ twitter.com##a[href*="chivi_105"]
 ##a[href*="/zWUEbFeVDew"]
 ##a[href*="/82ZJyQqm8Xo"]
 ##a[href*="/Ps-YY-r1-vc"]
+##a[href*="/ZE3lOk_o1go"]
+##a[href*="/nYOW20BRhkg"]
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 #||gendai.ismedia.jp^
