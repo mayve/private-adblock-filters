@@ -1887,6 +1887,7 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||hokkaido-labo.com^
 ||carnavi-labo.net^
 ||kenkyu-labo.com^
+||webdlab.com^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
