@@ -1681,6 +1681,7 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||b-labo.ne.jp^
 ||daisukichocolate.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
+||hagelabo.jp^
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
 ||huminsyoulabo.com^
