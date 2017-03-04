@@ -1622,6 +1622,7 @@ yahoo.co.jp##a[href*="aas"]
 ||facebook.com^*sabulabo*
 ||ameblo.jp^*ublaw*
 ||mens-fashion-labo.com^
+||poilabo.com^
 ||saito-sl.com^
 ||tatamilab.jp^
 ||chiroru.hatenablog.com^
@@ -1653,6 +1654,13 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||otomelab.com^
 ||bp-labo.com^
 ||truestylelab.com^
+||hagelabo.jp^
+||diy-lab.jp^
+||fabcross.jp^
+||lyradelight.blog.shinobi.jp^
+||monstar.ch^
+||rh-lab.net^
+||web-laboratories.com^
 ||chocolabo.com^
 ||incubationkumamoto.com^
 ||senzu.info^
@@ -1681,7 +1689,6 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||b-labo.ne.jp^
 ||daisukichocolate.com^
 ||shop.gnavi.co.jp/i-net/maiko2014/*
-||hagelabo.jp^
 ! [ClutSouka-Korean_Pakuri_sleep_health_laboratory]
 ||fuminsaimin.com^
 ||huminsyoulabo.com^
@@ -1889,6 +1896,12 @@ amazon.co.jp##a[href*="A14GQDHMU1BJ34"]
 ||carnavi-labo.net^
 ||kenkyu-labo.com^
 ||webdlab.com^
+||100yen-lab.com^
+||diylabo.jp^
+||chiroru.hatenablog.com^
+||waibi.hateblo.jp^
+||muramasa309.tumblr.com^
+||e4ei.net^
 ! [ClutSouka-Korean_Pakuri_alpaca_since2007]
 ||nasubigfarm.com^
 ||motherfarm.co.jp^
@@ -2102,6 +2115,7 @@ twitter.com##a[href*="chivi_105"]
 ||slimyslime.blog.fc2.com^
 ||kagaishay.blog.fc2.com^
 ||mitoc.blog46.fc2.com^
+||ahoudorimetoo.blog.fc2.com^
 ||qlife.jp^
 ||richardkoshimizu.at.webry.info^
 ||moeruasia.net^
@@ -2169,6 +2183,7 @@ twitter.com##a[href*="chivi_105"]
 ##a[href*="/VUc6HDq5GMM"]
 ##a[href*="/mqjE9rRSGs0"]
 ##a[href*="/w562UtnVt4Q"]
+##a[href*="/FLGXde69SdU"]
 ! [詐欺・偽住所・前科有・闇金等違法系ClutSouka-Korean_Pakuri_laboratory～ラボ系パクリ]
 ||tehu.me^
 #||gendai.ismedia.jp^
